@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Video Caption Generator</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Video Caption Generator</h1>
+    <p>Upload your video file to automatically generate subtitles using AI-powered transcription.</p>
+    <form method="post" action="{{ url_for('upload') }}" enctype="multipart/form-data">
+      <label for="file-upload" class="file-label">Choose Video File</label>
+      <input type="file" id="file-upload" name="file" accept="video/*" required>
+      <button type="submit">Upload & Generate Captions</button>
+    </form>
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul class="flashes">
+        {% for msg in messages %}
+          <li>{{ msg }}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+  </div>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
