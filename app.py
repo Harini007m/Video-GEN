@@ -1,5 +1,10 @@
 import os
 import uuid
+
+# Add ffmpeg to PATH for whisper
+ffmpeg_bin = r"C:\Users\harin\ffmpeg\ffmpeg-8.0-essentials_build\bin"
+if ffmpeg_bin not in os.environ["PATH"]:
+    os.environ["PATH"] += ";" + ffmpeg_bin
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory, flash
 from werkzeug.utils import secure_filename
 from utils.audio_utils import extract_audio
@@ -54,15 +59,23 @@ def process(filename):
     audio_path = os.path.join(config.TRANSCRIPT_FOLDER, audio_name)
 
     try:
+        print(f"Starting audio extraction for {filename}")
         extract_audio(upload_path, audio_path)
+        print("Audio extraction completed")
+        print("Starting transcription")
         segments = transcribe_audio(audio_path)
+        print(f"Transcription completed, {len(segments)} segments")
         srt_text = segments_to_srt(segments)
         srt_filename = f"{base_name}.srt"
         srt_path = os.path.join(config.SUBTITLE_FOLDER, srt_filename)
         with open(srt_path, "w", encoding="utf-8") as f:
             f.write(srt_text)
+        print("SRT file saved")
         return render_template("result.html", srt_file=srt_filename)
     except Exception as e:
+        print(f"Error during processing: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return render_template("error.html", message=str(e)), 500
 
 @app.route("/download/<path:filename>")

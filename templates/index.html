@@ -11,7 +11,7 @@
     <p>Upload your video file to automatically generate subtitles using AI-powered transcription.</p>
     <form method="post" action="{{ url_for('upload') }}" enctype="multipart/form-data">
       <label for="file-upload" class="file-label">Choose Video File</label>
-      <input type="file" id="file-upload" name="file" accept="video/*" required>
+      <input type="file" id="file-upload" name="file" accept=".mp4,.mov,.mkv,.avi,.wmv,.flv,.webm,.m4v,.3gp,.mp3,.wav" required>
       <button type="submit">Upload & Generate Captions</button>
     </form>
     {% with messages = get_flashed_messages() %}
