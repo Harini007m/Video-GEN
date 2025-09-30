@@ -24,7 +24,6 @@ var/
 *.egg
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
 *.manifest
 *.spec
 
@@ -102,11 +101,23 @@ cython_debug/
 
 # Virtual environment
 .venv/
+venv/
 
 # PyCharm
 .idea/
 
 # macOS
 .DS_Store
+
+# Project-specific ignores
+# Ignore raw media files (should not go in Git)
+*.wav
+*.mp3
+*.mp4
+*.mpv
+
+# Ignore large binary libraries accidentally added
+*.dll
+*.lib
 
 # Large media files should be tracked with Git LFS, not ignored
