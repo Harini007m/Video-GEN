@@ -1,0 +1,4944 @@
+1
+00:00:00,000 --> 00:00:05,680
+Hey everyone, it's Daniel Snyder from Seeking Alpha.
+
+2
+00:00:05,680 --> 00:00:10,760
+Welcome to probably the most important webinar we have ever done in the past few years that
+
+3
+00:00:10,760 --> 00:00:11,760
+we've been doing this.
+
+4
+00:00:11,760 --> 00:00:16,480
+Today, I am joined by the All Stars, Steven Kress here from Seeking Alpha VP of Quantity
+
+5
+00:00:16,480 --> 00:00:22,400
+of Strategies as well as Francesca Friday, who also works with Steve on the Quant team.
+
+6
+00:00:22,400 --> 00:00:26,080
+And we are going to dive through everything macro, what's going on with the markets, as
+
+7
+00:00:26,080 --> 00:00:30,280
+well as what is the investment approach going forward that can help you probably sleep a
+
+8
+00:00:30,280 --> 00:00:32,240
+little bit more soundly at night.
+
+9
+00:00:32,240 --> 00:00:37,080
+Before we dive in, let me go ahead and get our quick legal disclaimer out of the way.
+
+10
+00:00:37,080 --> 00:00:40,600
+We are not advising you personally concerning the nature, potential value or suitability
+
+11
+00:00:40,600 --> 00:00:42,480
+of any particular security.
+
+12
+00:00:42,480 --> 00:00:46,320
+You alone are solely responsible for determining whether any investment, security or strategy
+
+13
+00:00:46,320 --> 00:00:50,360
+or any product or service is appropriate or suitable for you based on your investment
+
+14
+00:00:50,360 --> 00:00:53,120
+objectives and personal and financial situation.
+
+15
+00:00:53,120 --> 00:00:56,840
+This presentation is for information purposes only content is presented as of the date
+
+16
+00:00:56,840 --> 00:01:00,440
+published or indicated and may be superseded by future events.
+
+17
+00:01:00,440 --> 00:01:05,160
+It represents my opinions, Francesca's opinions and Steven's opinions, which may not reflect
+
+18
+00:01:05,160 --> 00:01:07,000
+the views of Seeking Alpha as a whole.
+
+19
+00:01:07,000 --> 00:01:09,960
+Past performance is no guarantee of future results and Seeking Alpha is not a licensed
+
+20
+00:01:09,960 --> 00:01:13,920
+security dealer, broker or US investment advisor or investment bank.
+
+21
+00:01:13,920 --> 00:01:17,960
+Now with that out of the way, Steve, there's a lot of uncertainty out there.
+
+22
+00:01:17,960 --> 00:01:20,720
+You've been calling this for a while, but before we dive in for the people that may
+
+23
+00:01:20,800 --> 00:01:25,280
+be joining us for the first time, why don't you give them a quick background about yourself?
+
+24
+00:01:25,280 --> 00:01:27,920
+Daniel, thank you so much for organizing this today.
+
+25
+00:01:27,920 --> 00:01:32,720
+Highly important and led all the moves that are happening, a lot of fear and anxiety out
+
+26
+00:01:32,720 --> 00:01:36,160
+there and we're hoping we could address that today.
+
+27
+00:01:36,160 --> 00:01:41,000
+I have been in the markets for quite a long time, almost 35 years in the financial markets,
+
+28
+00:01:41,000 --> 00:01:44,040
+so I do have a fair amount of experience through highs and lows.
+
+29
+00:01:44,040 --> 00:01:49,120
+My background has really been mostly in brokerage firms and asset management.
+
+30
+00:01:49,360 --> 00:01:53,440
+I've been a portfolio manager, headed up a prop trading desk at Morgan Stanley and Quant
+
+31
+00:01:53,440 --> 00:01:55,440
+Strategies for 13 years.
+
+32
+00:01:55,440 --> 00:01:56,800
+That was the bulk of my career.
+
+33
+00:01:56,800 --> 00:02:01,800
+I also had a hedge fund that I founded in Quant Strategies and I started a FinTech company
+
+34
+00:02:01,800 --> 00:02:06,640
+that was acquired by Seeking Alpha about six years ago, which for lack of a better description
+
+35
+00:02:06,640 --> 00:02:12,200
+was one of the first versions of AI for a robo-advisor and picking stocks.
+
+36
+00:02:12,200 --> 00:02:14,280
+That's a little bit about my career.
+
+37
+00:02:14,280 --> 00:02:17,960
+For those who are familiar with me, I've been writing for Seeking Alpha for a long time
+
+38
+00:02:17,960 --> 00:02:21,360
+and I run the Quant models and Alpha picks for Seeking Alpha.
+
+39
+00:02:21,360 --> 00:02:27,480
+I'm joined by our Quant writer, Francesca Friday, who joined us from the Financial Times.
+
+40
+00:02:27,480 --> 00:02:30,360
+Francesca, tell us a little bit about yourself as well.
+
+41
+00:02:30,360 --> 00:02:33,480
+Hey, thanks for having me, Daniel and Steve.
+
+42
+00:02:33,480 --> 00:02:37,880
+I joined the Seeking Alpha team late last year from a place called Merger Market, where
+
+43
+00:02:37,880 --> 00:02:40,480
+I was a senior private equity reporter.
+
+44
+00:02:40,480 --> 00:02:43,160
+That's where a lot of my background is covering the private markets.
+
+45
+00:02:43,160 --> 00:02:48,360
+I also wrote the FT's award-winning newsletter, Due Diligence, and that covers topics from
+
+46
+00:02:48,360 --> 00:02:51,280
+M&A to private equity to hedge funds.
+
+47
+00:02:51,280 --> 00:02:55,320
+I'm really excited to be a part of the team and diving a little bit more into the public
+
+48
+00:02:55,320 --> 00:02:58,200
+markets with Quant.
+
+49
+00:02:58,200 --> 00:02:59,200
+Thank you so much.
+
+50
+00:02:59,200 --> 00:03:03,440
+I'd say with Daniel Snyder, who always has his finger on the pulse of the markets, this
+
+51
+00:03:03,440 --> 00:03:07,760
+is a great trio to be having this discussion today.
+
+52
+00:03:07,760 --> 00:03:12,640
+I've had a mantra for quite a while, many markets, many presentations like this.
+
+53
+00:03:13,120 --> 00:03:15,360
+Keep calm and carry on.
+
+54
+00:03:15,360 --> 00:03:19,800
+For those who know myself and Daniel, we've had quite a few webinars like this, when the
+
+55
+00:03:19,800 --> 00:03:24,000
+markets have been rolling off quite considerably, and this consistently has been our mantra
+
+56
+00:03:24,000 --> 00:03:26,160
+and it is not going to change today.
+
+57
+00:03:26,160 --> 00:03:31,120
+We actually started the mantra most recently in January with a couple articles that I had
+
+58
+00:03:31,120 --> 00:03:34,040
+written and guidance that I had given to the market.
+
+59
+00:03:34,040 --> 00:03:38,720
+First off though, I want to really start with what our Quant vision is.
+
+60
+00:03:38,800 --> 00:03:47,400
+That is to eliminate emotional investing and uncovered top stocks using data driven tactics,
+
+61
+00:03:47,400 --> 00:03:51,080
+which is especially important today because there's a lot of emotion out there and there's
+
+62
+00:03:51,080 --> 00:03:52,520
+a lot of fear.
+
+63
+00:03:52,520 --> 00:03:58,960
+What we really want people to do is just stay true to a disciplined investment process.
+
+64
+00:03:58,960 --> 00:04:01,400
+Don't really pay attention to the talking heads.
+
+65
+00:04:01,400 --> 00:04:05,400
+There's a lot going on on Bloomberg, on CNBC, on CNN.
+
+66
+00:04:05,400 --> 00:04:08,200
+Everybody's talking about the fall from the financial markets, the tariffs.
+
+67
+00:04:08,480 --> 00:04:11,440
+A lot of uncertainty, a lot of unknown impacts.
+
+68
+00:04:11,440 --> 00:04:17,320
+Really the best thing that you can do is just stay focused and trying to find good investments
+
+69
+00:04:17,320 --> 00:04:20,840
+based on good financials and good fundamentals.
+
+70
+00:04:20,840 --> 00:04:24,320
+That's going to be a good portion of our presentation today.
+
+71
+00:04:24,320 --> 00:04:30,720
+Our Quant vision, turbulent times and market volatility, turn your weakness into opportunity.
+
+72
+00:04:30,720 --> 00:04:33,920
+This is a message that I've had time again during periods like this.
+
+73
+00:04:33,920 --> 00:04:39,840
+I think individuals who have heeded that have done quite well by taking market uncertainty
+
+74
+00:04:39,840 --> 00:04:42,240
+and volatility and using it to their favor.
+
+75
+00:04:42,240 --> 00:04:44,600
+It can be your best friend.
+
+76
+00:04:44,600 --> 00:04:47,320
+What we're going to cover today is why Quant.
+
+77
+00:04:47,320 --> 00:04:50,560
+We're going to do a recap on the markets.
+
+78
+00:04:50,560 --> 00:04:57,520
+We'll obviously be covering what's going on with our approach to investing in markets.
+
+79
+00:04:57,520 --> 00:05:01,560
+First, a little bit about Quant and what we do.
+
+80
+00:05:01,560 --> 00:05:07,120
+We basically at seeking out our Quant strategy is a GARP-oriented strategy that is growth
+
+81
+00:05:07,120 --> 00:05:09,120
+at a reasonable price.
+
+82
+00:05:09,120 --> 00:05:15,760
+We're looking for stocks in essence that have strong fundamentals based on growth, value,
+
+83
+00:05:15,760 --> 00:05:20,840
+profitability, positive analyst EPS revisions and momentum.
+
+84
+00:05:20,840 --> 00:05:23,720
+Those are our core factors that we look at.
+
+85
+00:05:23,720 --> 00:05:29,240
+Because of the ability of our incredible computer models and the powerful computer processing
+
+86
+00:05:29,320 --> 00:05:35,560
+that we possess, we can take those factors and basically score every investable stock
+
+87
+00:05:35,560 --> 00:05:37,040
+every single day.
+
+88
+00:05:37,040 --> 00:05:40,720
+Literally, we provide a directional recommendation on every single stock.
+
+89
+00:05:40,720 --> 00:05:46,040
+When we do it, we're looking at the metrics for our companies and we're going through
+
+90
+00:05:46,040 --> 00:05:51,200
+cash flow, income statements, balance sheets, and hundreds of financial metrics.
+
+91
+00:05:51,200 --> 00:05:55,560
+We compare the metrics for companies to other companies in the sector.
+
+92
+00:05:55,600 --> 00:06:01,520
+This gives us the ability to filter out the weak companies from the strong companies.
+
+93
+00:06:01,520 --> 00:06:05,880
+Part of what we're doing today in our approach, in this balance approach to investing during
+
+94
+00:06:05,880 --> 00:06:11,240
+this turbulent period, is to look for stocks that possess really good fundamentals.
+
+95
+00:06:11,240 --> 00:06:16,360
+Of course, heating what's going on in the markets and trying to help eliminate some
+
+96
+00:06:16,360 --> 00:06:21,360
+of the losses that could occur is to encourage people to invest in stocks that have good
+
+97
+00:06:21,360 --> 00:06:24,120
+fundamentals with dividends as well.
+
+98
+00:06:24,120 --> 00:06:29,560
+The barbell approach is continue to look for companies that have excellent fundamentals
+
+99
+00:06:29,560 --> 00:06:34,320
+regardless of the dividend, identify those companies, but also identify companies that
+
+100
+00:06:34,320 --> 00:06:41,160
+do pay dividends that have good fundamentals and use that as your balanced barbell approach.
+
+101
+00:06:41,160 --> 00:06:45,400
+We have a pretty good track record at Seeking Alpha with our quant performance.
+
+102
+00:06:45,400 --> 00:06:49,160
+If you could bear with me, I just really want to go through that.
+
+103
+00:06:49,160 --> 00:06:55,400
+We have a back test that goes back to 2010, which shows what our investments would have
+
+104
+00:06:55,400 --> 00:06:58,840
+been like had you invested in all the quant strong buys.
+
+105
+00:06:58,840 --> 00:07:04,560
+What's interesting about this chart is the back test actually runs from 2010 to 2019.
+
+106
+00:07:04,560 --> 00:07:09,040
+After 2019, we have the system up and running and there are simulated trades.
+
+107
+00:07:09,040 --> 00:07:13,800
+Because we know what factors that we look at, we could identify those stocks historically
+
+108
+00:07:13,800 --> 00:07:16,640
+that possess those factors.
+
+109
+00:07:16,640 --> 00:07:22,000
+What we do is we back test trying to identify the factors that have the greatest amount of
+
+110
+00:07:22,000 --> 00:07:23,680
+predictability.
+
+111
+00:07:23,680 --> 00:07:26,280
+Over time, we have come up with weights.
+
+112
+00:07:26,280 --> 00:07:31,560
+When we're looking at the factors such as value, growth, profitability, momentum, and
+
+113
+00:07:31,560 --> 00:07:36,920
+the many underlying metrics for those overall factors, it's not equally weighted.
+
+114
+00:07:36,920 --> 00:07:39,240
+Some factors have greater weights than others.
+
+115
+00:07:40,240 --> 00:07:44,440
+Using that system, we've been able to achieve some outstanding results over a long period
+
+116
+00:07:44,440 --> 00:07:45,440
+of time.
+
+117
+00:07:45,440 --> 00:07:51,760
+If you look back to the initial back test, you would see your return would be 2,900%
+
+118
+00:07:51,760 --> 00:07:56,440
+compared to the S&P that has a return of 458% for the same period.
+
+119
+00:07:56,440 --> 00:08:01,720
+If you look at the recent history where we've been up and running starting in 2020 where
+
+120
+00:08:01,720 --> 00:08:05,320
+the trades have been simulated, the performance is still just as good.
+
+121
+00:08:05,320 --> 00:08:12,640
+You can see the quant strong buys were up 347% versus the S&P on the far right up 135%.
+
+122
+00:08:12,640 --> 00:08:16,760
+The purpose of showing this is we actually don't have an investable product.
+
+123
+00:08:16,760 --> 00:08:20,120
+There's not an ETF or a mutual fund of our strong buys.
+
+124
+00:08:20,120 --> 00:08:24,760
+The point of showing this is to identify how the concept works well, which is that GARP
+
+125
+00:08:24,760 --> 00:08:30,400
+approach and using the certain weights that we have on factors, it has presented us with
+
+126
+00:08:30,400 --> 00:08:35,200
+some fantastic opportunities that we continue to repeat over time.
+
+127
+00:08:36,080 --> 00:08:42,560
+As a premium member or an AlphaPix member, you have the ability to obtain these stocks
+
+128
+00:08:42,560 --> 00:08:48,280
+that are recommended and have these directional recommendations based on the underlying factors.
+
+129
+00:08:48,280 --> 00:08:50,800
+That's how we've achieved such good performance over a long time.
+
+130
+00:08:50,800 --> 00:08:51,800
+Steve.
+
+131
+00:08:51,800 --> 00:08:54,680
+I want to jump in real quick.
+
+132
+00:08:54,680 --> 00:08:56,480
+I want you to have your victory lap.
+
+133
+00:08:56,480 --> 00:08:58,800
+Get back to what we're talking about today.
+
+134
+00:08:58,800 --> 00:09:02,000
+Obviously, we can talk about the quant system all day, but you've been calling for this
+
+135
+00:09:02,000 --> 00:09:04,440
+market uncertainty for months now.
+
+136
+00:09:04,440 --> 00:09:06,840
+It feels like you've been writing the articles.
+
+137
+00:09:06,840 --> 00:09:09,480
+You've been doing webinars with myself.
+
+138
+00:09:09,480 --> 00:09:14,840
+We just published the top 10 stocks for April video earlier this week where even you were
+
+139
+00:09:14,840 --> 00:09:17,000
+talking about the barbell approach.
+
+140
+00:09:17,000 --> 00:09:20,080
+If you go to the next slide, we can showcase the work that you've been putting out there.
+
+141
+00:09:20,080 --> 00:09:23,760
+I just want to encourage everybody, if you're not already, follow Stephen Cress on Seeking
+
+142
+00:09:23,760 --> 00:09:24,760
+Alpha.
+
+143
+00:09:24,760 --> 00:09:25,760
+You've been getting these articles.
+
+144
+00:09:25,760 --> 00:09:30,840
+You know that this environment was set up to be uncertain and volatile like it is today.
+
+145
+00:09:30,840 --> 00:09:38,200
+Grant Cheska was kind enough to pull this slide together to showcase that day.
+
+146
+00:09:38,200 --> 00:09:44,640
+Trying to be as humble as possible and having assessed the markets for a long time, from
+
+147
+00:09:44,640 --> 00:09:49,680
+my perspective, I was able to tell back in early January that there were problems with
+
+148
+00:09:49,680 --> 00:09:51,200
+the market.
+
+149
+00:09:51,200 --> 00:09:56,080
+One of the things that I say about our quant model is it's often like a Richter scale.
+
+150
+00:09:56,200 --> 00:10:01,000
+We notice that there are problems with the stocks that we have strong buys.
+
+151
+00:10:01,000 --> 00:10:05,400
+Typically we're identifying the best companies and the best industries and the best sectors.
+
+152
+00:10:05,400 --> 00:10:06,800
+They have the strongest growth rates.
+
+153
+00:10:06,800 --> 00:10:10,960
+They have the best valuation frameworks that have great profitability.
+
+154
+00:10:10,960 --> 00:10:16,760
+What tends to happen during these periods before the market turns, our quant strong
+
+155
+00:10:16,760 --> 00:10:20,600
+buys often become very volatile and start selling off.
+
+156
+00:10:20,600 --> 00:10:24,960
+What we're able to see is that there's an early rotation where there's a flight of
+
+157
+00:10:25,000 --> 00:10:26,000
+capital.
+
+158
+00:10:26,000 --> 00:10:31,920
+That flight of capital could be to defensive sectors like consumer staples or utilities
+
+159
+00:10:31,920 --> 00:10:35,120
+or cash or gold.
+
+160
+00:10:35,120 --> 00:10:39,480
+What's interesting is when this initially happens and much like a Richter scale will
+
+161
+00:10:39,480 --> 00:10:43,480
+go off, it could take a little time before that earthquake happens.
+
+162
+00:10:43,480 --> 00:10:46,320
+The overall market actually continued to go up.
+
+163
+00:10:46,320 --> 00:10:50,800
+It was going up as investors were rotating into these different sectors.
+
+164
+00:10:50,800 --> 00:10:55,680
+You could see I wrote this article back on January 10th, the best defensive stocks to
+
+165
+00:10:55,680 --> 00:10:58,720
+hedge against the market uncertainty.
+
+166
+00:10:58,720 --> 00:11:01,400
+Then on January 27th, feeling bearish.
+
+167
+00:11:01,400 --> 00:11:05,360
+Then of course on February 25th, brace for turbulence.
+
+168
+00:11:05,360 --> 00:11:12,080
+That was just after the market had peaked, I believe the S&P 500 at that point.
+
+169
+00:11:12,080 --> 00:11:15,080
+We saw those signs.
+
+170
+00:11:15,080 --> 00:11:18,600
+When I looked at the market, it was obvious to see what some of the key signs were that
+
+171
+00:11:18,600 --> 00:11:20,720
+was causing that disturbance.
+
+172
+00:11:20,720 --> 00:11:23,880
+There was increasing talk of tariffs.
+
+173
+00:11:23,880 --> 00:11:29,560
+There was also a degradation that was starting to occur in earnings, especially with the
+
+174
+00:11:29,560 --> 00:11:31,640
+magnificence in seven stocks.
+
+175
+00:11:31,640 --> 00:11:37,600
+I pointed out in many of these articles with the max seven stocks that their year-over-year
+
+176
+00:11:37,600 --> 00:11:41,840
+growth had actually been higher than their four growth rates.
+
+177
+00:11:41,840 --> 00:11:43,880
+That was across the board for all seven stocks.
+
+178
+00:11:43,880 --> 00:11:48,640
+Obviously, we have the largest seven market cap stocks.
+
+179
+00:11:48,640 --> 00:11:53,000
+Their growth rates are starting to slow compared to their year-over-year growth rates.
+
+180
+00:11:53,000 --> 00:11:57,440
+Then you had the position coming out of the administration with the drumbeat that was
+
+181
+00:11:57,440 --> 00:11:59,680
+getting louder and louder on tariffs.
+
+182
+00:11:59,680 --> 00:12:06,840
+It was obvious to see why there was volatility with many of our quant strong buys early on.
+
+183
+00:12:06,840 --> 00:12:11,960
+It doesn't matter how good the company's earnings results are or their top line results
+
+184
+00:12:12,840 --> 00:12:17,120
+When markets get defensive, it's just a giant sucking sound.
+
+185
+00:12:17,120 --> 00:12:24,000
+It rotates into defensive sectors, as I mentioned, healthcare, utilities, REITs, consumer staples,
+
+186
+00:12:24,000 --> 00:12:27,600
+cash, gold, and people sell stocks where they made money.
+
+187
+00:12:27,600 --> 00:12:31,000
+It doesn't matter if the fundamentals are good or not.
+
+188
+00:12:31,000 --> 00:12:32,240
+They're trying to raise capital.
+
+189
+00:12:32,240 --> 00:12:35,920
+They're trying to raise cash and they're trying to allocate into sectors that will
+
+190
+00:12:35,920 --> 00:12:40,280
+offer them some protection, regardless of how good the companies are.
+
+191
+00:12:40,280 --> 00:12:44,600
+That's exactly what we started to experience in early January and why I was writing about
+
+192
+00:12:44,600 --> 00:12:45,600
+it.
+
+193
+00:12:45,600 --> 00:12:51,200
+I also want to highlight, I put this slide up in February 23rd.
+
+194
+00:12:51,200 --> 00:12:53,960
+Will there be a 10% correction?
+
+195
+00:12:53,960 --> 00:12:59,520
+I highlighted a long-term outlook then predicting the exact likelihood of a 10% stock market
+
+196
+00:12:59,520 --> 00:13:03,800
+correction in 2025 is challenging due to many unpredictable factors.
+
+197
+00:13:03,800 --> 00:13:06,200
+However, history does provide some context.
+
+198
+00:13:06,680 --> 00:13:14,240
+One of the key bullet points that we had here was between 2002 and 2021, the S&P 500
+
+199
+00:13:14,240 --> 00:13:20,120
+experienced declines of 10% or more in 10 out of 20 years, indicating that such corrections
+
+200
+00:13:20,120 --> 00:13:24,040
+occur approximately every two years.
+
+201
+00:13:24,040 --> 00:13:31,240
+The history had shown we were at a point where the bull market had run and it was entering
+
+202
+00:13:31,240 --> 00:13:32,760
+its third year.
+
+203
+00:13:32,760 --> 00:13:38,040
+Previously, when you went more than two years with markets that had returns in excess of
+
+204
+00:13:38,040 --> 00:13:45,760
+20%, we found that between 2.25 years and 3.25 years, the market on average would return
+
+205
+00:13:45,760 --> 00:13:48,440
+at that point after 4.8%.
+
+206
+00:13:48,440 --> 00:13:50,520
+Hence that correction that came.
+
+207
+00:13:50,520 --> 00:13:56,040
+That might sound a little bit complex, but basically the way that the math works is that
+
+208
+00:13:56,040 --> 00:14:01,840
+in three couple of years the market has a crash and that crash likely will be a minimum
+
+209
+00:14:01,840 --> 00:14:04,920
+of 10% and in some cases 20%.
+
+210
+00:14:04,920 --> 00:14:07,320
+We were really hitting on the cusp of it.
+
+211
+00:14:07,320 --> 00:14:10,800
+The timing was perfect for this to actually occur.
+
+212
+00:14:10,800 --> 00:14:15,320
+I did write a couple articles today that I wanted to highlight, which I think are very
+
+213
+00:14:15,320 --> 00:14:16,320
+timely.
+
+214
+00:14:16,320 --> 00:14:21,040
+One of the articles is tariff-resistant investments, three stocks for trade turbulence.
+
+215
+00:14:21,040 --> 00:14:25,800
+The article that I wrote was Trump bump, hits us lump, eight stocks for a downturn.
+
+216
+00:14:25,800 --> 00:14:31,800
+If you have a chance on seeking alpha, you could look up my name and find these articles
+
+217
+00:14:31,800 --> 00:14:36,880
+and please do follow me so you can see some of the articles that I write in the future
+
+218
+00:14:36,880 --> 00:14:37,880
+as well.
+
+219
+00:14:37,880 --> 00:14:43,600
+This brings us to our current period of 2025 and what the market normalization is going
+
+220
+00:14:43,600 --> 00:14:48,640
+to be just after this incredible rotation that we've been seeing.
+
+221
+00:14:48,640 --> 00:14:54,800
+Just keeping in mind in 2023 and 2024, the markets then were dominated by the MAC7 and
+
+222
+00:14:54,800 --> 00:15:01,160
+you may recall in 2023 the MAC7 stocks on average were up 111% and it was still a difficult
+
+223
+00:15:01,160 --> 00:15:07,400
+environment because in 2023 we had rising rates, we had increasing inflation.
+
+224
+00:15:07,400 --> 00:15:13,800
+Really investors had a bit of a rotation to what then was the safe haven or the stocks
+
+225
+00:15:13,800 --> 00:15:18,120
+that had cash that were really profitable that were the MAC7 stocks.
+
+226
+00:15:18,200 --> 00:15:23,000
+Based on the fears of rising rates and inflation, but in combination with the AI revolution,
+
+227
+00:15:23,000 --> 00:15:28,880
+you had the MAC7 do incredibly well during 2023 and 2024 as well.
+
+228
+00:15:28,880 --> 00:15:33,920
+However, as we're coming into 2025, there's a lot of volatility.
+
+229
+00:15:33,920 --> 00:15:38,080
+We have tariffs, we have economic uncertainty, we've had a lot of executive orders coming
+
+230
+00:15:38,080 --> 00:15:41,720
+out of the White House, we've had changes in the regulatory environment.
+
+231
+00:15:41,720 --> 00:15:46,120
+There's been incredible gyrations and there's also been the beginning of some massive layoffs
+
+232
+00:15:46,120 --> 00:15:48,120
+in the federal government as well.
+
+233
+00:15:48,120 --> 00:15:55,000
+Now at a corporate level, many of the executives and CFOs are facing a lot of uncertainty with
+
+234
+00:15:55,000 --> 00:15:56,000
+the tariffs.
+
+235
+00:15:56,000 --> 00:15:59,520
+There's uncertainty with what they're going to be doing with their CAPEX budgets going
+
+236
+00:15:59,520 --> 00:16:02,020
+forward.
+
+237
+00:16:02,020 --> 00:16:07,920
+Up until a couple of days ago, the MAC7 stocks were down on average about 6.7%.
+
+238
+00:16:07,920 --> 00:16:09,840
+That has quickly changed.
+
+239
+00:16:09,840 --> 00:16:10,840
+That's actually a little bit old.
+
+240
+00:16:10,840 --> 00:16:16,720
+I think right now, the MAC7 stocks are down on average about 20% at this point.
+
+241
+00:16:16,720 --> 00:16:20,640
+You can see just a couple of days ago, the S&P was down 5.54%.
+
+242
+00:16:20,640 --> 00:16:25,440
+At this point today, the S&P is down over 11%.
+
+243
+00:16:25,440 --> 00:16:32,040
+Just in the few days that we've been writing these slides, the market has come down tremendously.
+
+244
+00:16:32,040 --> 00:16:37,360
+What is the normalization that we're going to most likely see for 2025?
+
+245
+00:16:37,360 --> 00:16:44,040
+As I mentioned, the S&P has pulled back roughly 10% or 11% from its 52-week high, which was
+
+246
+00:16:44,040 --> 00:16:46,560
+at this point about 45 days ago.
+
+247
+00:16:46,560 --> 00:16:50,240
+The NASDAQ, I believe, is down almost 20% from its high.
+
+248
+00:16:50,240 --> 00:16:54,640
+Ignoring the slide here, and that was about 110 days ago.
+
+249
+00:16:54,640 --> 00:16:58,080
+Just in the last five days, we've had these huge moves in the market.
+
+250
+00:16:58,080 --> 00:17:03,120
+The concerns are around tariffs, inflation, corporate earnings deterioration, and the
+
+251
+00:17:03,200 --> 00:17:06,640
+looming and increasing fears that a recession may occur.
+
+252
+00:17:06,640 --> 00:17:09,320
+All these have contributed to the pullback that we see.
+
+253
+00:17:09,320 --> 00:17:14,120
+On the back of these fears, investors, obviously, they've been taking profits.
+
+254
+00:17:14,120 --> 00:17:17,760
+They've been selling their stocks that are winning.
+
+255
+00:17:17,760 --> 00:17:21,800
+When I say those stocks that have been winning, you could look at the MAC7 stocks.
+
+256
+00:17:21,800 --> 00:17:24,960
+You could look at a lot of the stocks that we've been recommending over the last year.
+
+257
+00:17:24,960 --> 00:17:29,000
+They have been hit particularly hard in the last couple of weeks, despite the incredible
+
+258
+00:17:29,000 --> 00:17:33,000
+results that they've had in terms of their earnings announcements.
+
+259
+00:17:33,200 --> 00:17:38,280
+What has done well, we've seen a shift to consumer staples, as I mentioned, utilities,
+
+260
+00:17:38,280 --> 00:17:40,960
+REITs, healthcare, cash, and gold.
+
+261
+00:17:40,960 --> 00:17:46,840
+That's how the market plays out during a period of fear, which is exactly what we're experiencing right now.
+
+262
+00:17:50,280 --> 00:17:53,120
+This next slide says blind faith has a short shelf life.
+
+263
+00:17:54,400 --> 00:17:58,880
+It just serves an example that really just in November and December,
+
+264
+00:17:58,920 --> 00:18:01,760
+Wall Street was rejoicing Trump won the election.
+
+265
+00:18:03,760 --> 00:18:08,640
+They did announce the aggressive tariff plans, but really at the time,
+
+266
+00:18:08,640 --> 00:18:11,800
+people thought that that would be a tool for negotiation.
+
+267
+00:18:12,200 --> 00:18:17,880
+And that has clearly turned from a tool of negotiation into a reality.
+
+268
+00:18:18,240 --> 00:18:22,240
+So at this point, we have fears of stagnation, which are starting to mount.
+
+269
+00:18:23,000 --> 00:18:27,160
+We have other countries that will be matching tariff increase.
+
+270
+00:18:27,200 --> 00:18:30,320
+So we have basically a tariff where that's occurring.
+
+271
+00:18:31,040 --> 00:18:34,000
+We're probably starting to see a slowdown in economic growth.
+
+272
+00:18:34,320 --> 00:18:38,040
+We'll probably see rising unemployment and we'll probably see inflation numbers
+
+273
+00:18:38,040 --> 00:18:41,560
+coming in much harder than expected as we go into the next several months.
+
+274
+00:18:41,840 --> 00:18:44,720
+And this is all being factored into the market today.
+
+275
+00:18:45,280 --> 00:18:48,440
+Yesterday, the day before, people have been positioning for this.
+
+276
+00:18:48,720 --> 00:18:55,560
+So really, with the market being down 5% today, it's almost like an orderly decline in the market.
+
+277
+00:18:55,800 --> 00:18:58,720
+Because a lot of this news has been out there for the last couple of weeks
+
+278
+00:18:59,800 --> 00:19:02,600
+with the events that happened yesterday with the announcements of tariffs,
+
+279
+00:19:02,880 --> 00:19:04,720
+with the bad news being laid out.
+
+280
+00:19:04,960 --> 00:19:07,720
+The market is sort of just absorbing that right now.
+
+281
+00:19:08,000 --> 00:19:10,760
+So a lot of these moves have already taken place.
+
+282
+00:19:13,120 --> 00:19:16,960
+And this, I think, is a good chart on the right hand side,
+
+283
+00:19:16,960 --> 00:19:20,320
+which just shows you how much consumer confidence has slipped in.
+
+284
+00:19:20,560 --> 00:19:22,800
+This is before yesterday.
+
+285
+00:19:22,880 --> 00:19:26,520
+And you could see the incredible change in delta from consumer confidence
+
+286
+00:19:26,520 --> 00:19:34,120
+in November of 24 to March 2025, where it dropped to 92.9 from 111.
+
+287
+00:19:34,840 --> 00:19:37,160
+And this is prior to what happened yesterday.
+
+288
+00:19:37,440 --> 00:19:42,600
+So we'll probably continue to see consumer confidence slip in the weeks and months ahead.
+
+289
+00:19:42,920 --> 00:19:46,440
+And we'll probably be seeing it sort of on the corporate level as well.
+
+290
+00:19:47,200 --> 00:19:50,880
+And many of the reasons why this is occurring, I've already mentioned.
+
+291
+00:19:51,880 --> 00:19:55,440
+But what I want to show here is the VIX.
+
+292
+00:19:55,440 --> 00:19:59,440
+And we had a period back, I believe it was August last year.
+
+293
+00:20:00,040 --> 00:20:01,040
+Daniel, is that correct?
+
+294
+00:20:01,480 --> 00:20:05,200
+Where you put up a similar slide and the VIX had surged over 60.
+
+295
+00:20:06,240 --> 00:20:11,840
+And only time previously to that, when recent history was during the great financial crisis.
+
+296
+00:20:12,480 --> 00:20:17,960
+You know, we're seeing today the VIX is not up as much as it was during that one generation
+
+297
+00:20:17,960 --> 00:20:19,600
+or during the financial crisis.
+
+298
+00:20:19,720 --> 00:20:24,880
+And I think the market could take heart to that, that this is a bit of an orderly sell-off
+
+299
+00:20:24,880 --> 00:20:25,720
+that we're seeing.
+
+300
+00:20:26,280 --> 00:20:32,080
+And, you know, today we're really seeing, you know, with the movement in interest rates today,
+
+301
+00:20:32,400 --> 00:20:33,920
+investors are going into bonds.
+
+302
+00:20:33,920 --> 00:20:37,160
+So bonds are going up a bit, yields are going down.
+
+303
+00:20:37,520 --> 00:20:38,920
+People continue to go into cash.
+
+304
+00:20:39,120 --> 00:20:44,560
+People continue to go into consumer staples, even today, as we're speaking, based on the
+
+305
+00:20:44,560 --> 00:20:49,120
+fears of unemployment rising, economic uncertainty, and what's going to happen
+
+306
+00:20:49,240 --> 00:20:51,640
+with inflation with all these tariffs.
+
+307
+00:20:51,840 --> 00:20:55,880
+But the good news is we can see that the VIX has not surged to some of those previous levels,
+
+308
+00:20:56,160 --> 00:20:58,160
+which tells you it's a bit of an orderly sell-off.
+
+309
+00:20:59,040 --> 00:21:01,200
+Daniel, I want you to tell us about this chart.
+
+310
+00:21:01,640 --> 00:21:02,600
+Yeah, Steve, thank you.
+
+311
+00:21:02,600 --> 00:21:06,840
+So I think this is, like I said, this is probably the most important webinar we've ever done.
+
+312
+00:21:06,880 --> 00:21:07,240
+Right.
+
+313
+00:21:07,240 --> 00:21:12,120
+I want to take a second and just remind people what the VIX actually is, what it actually does,
+
+314
+00:21:12,120 --> 00:21:13,640
+because it always comes up in conversation.
+
+315
+00:21:13,640 --> 00:21:20,000
+People lose hindsight of the VIX is a calculation of the option price is 30 days in the future,
+
+316
+00:21:20,240 --> 00:21:23,760
+calculating the strikes and the implied vol that the market is seeking.
+
+317
+00:21:24,160 --> 00:21:30,400
+If people are hedged, you don't get these massive shoots that just pop up like crazy in the VIX.
+
+318
+00:21:30,480 --> 00:21:30,720
+Right.
+
+319
+00:21:30,720 --> 00:21:31,560
+So keep that in mind.
+
+320
+00:21:31,880 --> 00:21:36,480
+Also, you have to remember the historical average of the VIX is around that 20 level.
+
+321
+00:21:36,760 --> 00:21:41,320
+So when you take that 20 level and start building out standard deviations of what is a normal distribution,
+
+322
+00:21:41,600 --> 00:21:46,040
+your first standard deviation takes you up to about 28 to 30, depending on how you calculate it.
+
+323
+00:21:46,680 --> 00:21:50,680
+What we're showing here is I don't know if you all remember the collapse of Silicon Valley Bank.
+
+324
+00:21:51,080 --> 00:21:55,720
+When that happened, we barely got over the 28 level before the market pulled back.
+
+325
+00:21:55,760 --> 00:22:00,120
+That was a moment in time where people were wondering if they need to take cash out of their bank accounts.
+
+326
+00:22:00,360 --> 00:22:04,120
+They were anticipating a failure and yet the VIX never got above 30 really.
+
+327
+00:22:04,560 --> 00:22:07,720
+Then if you go to the next slide, as you were talking about on August 5th,
+
+328
+00:22:08,200 --> 00:22:14,920
+we saw a five standard deviation event on a Monday morning because people didn't know what was going on in the currency market.
+
+329
+00:22:15,280 --> 00:22:15,640
+Right.
+
+330
+00:22:15,680 --> 00:22:17,600
+No nuke got shot in the air.
+
+331
+00:22:17,720 --> 00:22:19,760
+The markets were still open that day.
+
+332
+00:22:19,760 --> 00:22:22,720
+They didn't close like for the VIX to pop.
+
+333
+00:22:23,200 --> 00:22:23,520
+Right.
+
+334
+00:22:23,520 --> 00:22:24,680
+There is still a possibility.
+
+335
+00:22:24,680 --> 00:22:35,240
+I'm not going to say there's not a possibility here, but for the VIX to pop, there has to be something unseen that hasn't been hedged by everyone on Wall Street and customers out around the world.
+
+336
+00:22:35,320 --> 00:22:35,640
+Right.
+
+337
+00:22:36,000 --> 00:22:38,240
+People knew about the tariffs to what Steve was saying.
+
+338
+00:22:38,560 --> 00:22:40,440
+They knew the tariff announcement was coming.
+
+339
+00:22:41,400 --> 00:22:49,720
+This is why, as Steve mentioned, it feels like a controlled sell-off in the market, which is why we only got to about that negative 5% value today.
+
+340
+00:22:50,680 --> 00:22:51,720
+But I just wanted to highlight that.
+
+341
+00:22:51,960 --> 00:22:52,200
+Yeah.
+
+342
+00:22:52,200 --> 00:22:54,080
+I think these were great slides.
+
+343
+00:22:54,080 --> 00:22:58,840
+And I did throw in a little plug there for our quant system.
+
+344
+00:22:59,320 --> 00:23:09,000
+During the collapse of Silicon Valley Bank, our quant rating system was one of the very, very few systems on Wall Street that had a sell on Silicon Valley Bank.
+
+345
+00:23:09,280 --> 00:23:15,640
+I don't think there was one other firm out of the big tier banks or the second tier brokerage firms.
+
+346
+00:23:15,640 --> 00:23:18,240
+No one was really calling for a sell.
+
+347
+00:23:18,520 --> 00:23:26,120
+And our quant system had a sell on a number of the banks that actually had to merge or were taken over during that period.
+
+348
+00:23:26,440 --> 00:23:29,040
+So hats off to the quant system during that period.
+
+349
+00:23:29,440 --> 00:23:36,080
+So I'm going to take us to what we're seeing in terms of a 30-day recap, bringing us right into this current period.
+
+350
+00:23:36,720 --> 00:23:39,120
+As you can see, it continues with this rotation.
+
+351
+00:23:39,400 --> 00:23:46,240
+So looking on the far right over the last four weeks of one month period, we were seeing a move into energy.
+
+352
+00:23:46,440 --> 00:23:48,000
+I think that has sold off today.
+
+353
+00:23:48,000 --> 00:23:49,560
+So that's probably beginning to disappear.
+
+354
+00:23:50,360 --> 00:23:51,720
+I took this from early this morning.
+
+355
+00:23:51,960 --> 00:23:53,600
+Energy has moved down.
+
+356
+00:23:53,880 --> 00:23:55,520
+Energy stocks have moved down as well.
+
+357
+00:23:55,760 --> 00:24:03,160
+But you'd see the sectors that perform well were utility and consumer staples and to a certain extent, basic materials.
+
+358
+00:24:03,520 --> 00:24:09,120
+And basic materials are interesting because commodities actually fluctuate quite a bit every year.
+
+359
+00:24:09,400 --> 00:24:16,400
+So the fact that we have these tariffs that are coming in at all different levels anywhere from 10% to maybe 30%,
+
+360
+00:24:17,040 --> 00:24:22,000
+people have to bake in a lot of volatility with basic materials and commodity prices.
+
+361
+00:24:22,280 --> 00:24:24,480
+So that's why you're not going to see that sell off.
+
+362
+00:24:24,480 --> 00:24:27,680
+And of course, people are moving into gold and silver as well.
+
+363
+00:24:27,960 --> 00:24:29,920
+So that will impact basic materials.
+
+364
+00:24:30,200 --> 00:24:40,720
+But of course, if you look at the bottom on the right hand side, just in the four week period, the sectors that have sold off sharply were the ones that are the best performing sectors for the last two years running.
+
+365
+00:24:40,720 --> 00:24:48,520
+Technology, consumer discretionary, consumer communication services, those sectors that were the best performing ones have sold off.
+
+366
+00:24:48,800 --> 00:24:50,160
+So this is sort of a recap.
+
+367
+00:24:50,400 --> 00:24:55,840
+And again, we have a bit of an orderly sell off today because this has occurred over the last four weeks, this rotation.
+
+368
+00:24:56,160 --> 00:25:02,200
+So the tariffs were not really a huge surprise, hence like the VIX not getting to those previous levels.
+
+369
+00:25:02,760 --> 00:25:11,400
+Part of the warning that I mentioned that we saw early on in January was, you know, the discussion of tariffs growing and that sound getting louder and louder.
+
+370
+00:25:11,720 --> 00:25:18,400
+I put together this graph because the market and economists and the economy do not like tariffs.
+
+371
+00:25:18,800 --> 00:25:26,800
+So you can see on this graph over here and the performance of the S&P 500, the year that tariffs were launched.
+
+372
+00:25:27,040 --> 00:25:30,000
+So the big year was when Herbert Hoover was president.
+
+373
+00:25:31,040 --> 00:25:34,480
+In 1930, he launched the Smoot-Hawley tariffs.
+
+374
+00:25:34,800 --> 00:25:39,720
+We're actually the tariffs that are most similar to the ones that we are seeing today, which were global tariffs.
+
+375
+00:25:40,080 --> 00:25:49,880
+And in 1930, the market fell 28.5 percent and that was on the back of the market coming off sharply in 1929.
+
+376
+00:25:50,440 --> 00:25:57,920
+And of course, that was really driven by, you know, an incredible amount of margin that was made available to the market margin calls.
+
+377
+00:25:58,240 --> 00:26:03,200
+And then central banks sort of tightening into that period when the market was collapsing.
+
+378
+00:26:03,520 --> 00:26:12,680
+So between 1929 and then having the Smoot-Hawley tariffs in 1930, it was a really harsh period for the market over a two and a half year period there.
+
+379
+00:26:13,200 --> 00:26:22,280
+But the tariffs had such a negative impact on the markets that there wasn't another president until Richard Nixon that launched tariffs.
+
+380
+00:26:22,280 --> 00:26:23,760
+And that was during the Nixon shock.
+
+381
+00:26:23,760 --> 00:26:24,760
+And those were pretty light.
+
+382
+00:26:25,120 --> 00:26:28,520
+So in the year he launched it, the market was pretty much unchanged.
+
+383
+00:26:28,760 --> 00:26:32,080
+However, I will say a recession did follow that.
+
+384
+00:26:32,360 --> 00:26:41,600
+And the recession sort of started in 1969, sort of resurfaced through 1973, abated and then continued again into 1975.
+
+385
+00:26:41,920 --> 00:26:46,160
+So it was a really bad economic period in 1969 through 1975.
+
+386
+00:26:46,560 --> 00:26:49,080
+Again, tariffs not having a good impact on the market.
+
+387
+00:26:49,360 --> 00:26:55,680
+But George Bush, to a limited extent, had steel tariffs that he announced in 2002.
+
+388
+00:26:56,040 --> 00:26:58,480
+And the market reacted very negatively to that.
+
+389
+00:26:58,760 --> 00:27:00,160
+It was down 23 percent.
+
+390
+00:27:00,400 --> 00:27:03,360
+Of course, there were other issues during each of these periods.
+
+391
+00:27:03,600 --> 00:27:05,600
+You have the oil shock in 1970.
+
+392
+00:27:06,200 --> 00:27:10,560
+And of course, you know, you had the start of the Depression in 1929.
+
+393
+00:27:10,920 --> 00:27:18,440
+And then when George Bush was president, obviously we had the Iraq war occur and the horrible.
+
+394
+00:27:20,040 --> 00:27:22,760
+New York crisis with a World Trade Center that occurred too.
+
+395
+00:27:22,760 --> 00:27:24,600
+So that was a pretty horrific period.
+
+396
+00:27:24,600 --> 00:27:26,120
+So it's not all tariff related.
+
+397
+00:27:26,920 --> 00:27:30,040
+In 2018, Donald Trump had China and steel tariffs.
+
+398
+00:27:30,320 --> 00:27:35,920
+So very limited compared to the amount of tariffs announced yesterday, but the market fell about 6.2 percent.
+
+399
+00:27:36,280 --> 00:27:38,120
+And then, of course, you had the pandemic.
+
+400
+00:27:38,520 --> 00:27:45,720
+So I'm not sure what it is about tariffs, but they seem to come along where periods and time where there are other events that are not very timely.
+
+401
+00:27:46,000 --> 00:27:53,600
+But on average, during these tariffs, during the first year that they were launched, the S&P fell about 14 and a half percent.
+
+402
+00:27:54,080 --> 00:27:59,920
+So you're already seeing the Nasdaq probably about off 20 percent and the S&P 500 close to that now.
+
+403
+00:28:01,280 --> 00:28:02,920
+Here's a little bit of history as well.
+
+404
+00:28:02,920 --> 00:28:08,640
+We took 14 major crises that have occurred since 1980.
+
+405
+00:28:08,960 --> 00:28:10,600
+And we have measured the decline.
+
+406
+00:28:10,600 --> 00:28:16,000
+So what I'm looking at here is the question that I'm getting is how long could this potentially last?
+
+407
+00:28:16,440 --> 00:28:22,440
+So since 1980, the markets have entered a correction every 3.2 years.
+
+408
+00:28:23,200 --> 00:28:26,640
+173 days is the median pullback period.
+
+409
+00:28:27,080 --> 00:28:31,480
+So if we were to base it now, if I was getting that question now, how much longer would this last?
+
+410
+00:28:31,840 --> 00:28:39,520
+I would say at a data driven approach, we could say if we were to hit that median period of 173 days,
+
+411
+00:28:40,320 --> 00:28:43,240
+we're already 45 days into sort of the pullback.
+
+412
+00:28:43,560 --> 00:28:49,000
+That means that we would hit that 173 day median August 9th of 2025.
+
+413
+00:28:49,000 --> 00:28:53,320
+So during this summer, we'll get to that point where the median has occurred.
+
+414
+00:28:53,720 --> 00:28:59,920
+And it's likely the pullback may have even occurred before that point.
+
+415
+00:29:00,280 --> 00:29:07,200
+So you could see throughout these 14 periods on average, the market fell about 25 percent.
+
+416
+00:29:07,640 --> 00:29:10,040
+The average amount of days was 253 percent.
+
+417
+00:29:10,360 --> 00:29:16,240
+The median return was negative 20 percent, with a median number of days being 173.
+
+418
+00:29:16,640 --> 00:29:20,640
+Now, worst case scenario, I put at the bottom and they didn't include it because it's an outlier.
+
+419
+00:29:20,920 --> 00:29:26,800
+But of course, that was a stock market crash and the smooth holiday towers from 1929 to 1932,
+
+420
+00:29:27,040 --> 00:29:29,360
+where the market was off 86 percent.
+
+421
+00:29:29,600 --> 00:29:32,840
+So as an outlier, I did not include that in those numbers.
+
+422
+00:29:33,240 --> 00:29:35,160
+But it's really not uncommon.
+
+423
+00:29:35,160 --> 00:29:39,080
+You know, we have this every 3.2 years, the market will pull back.
+
+424
+00:29:39,320 --> 00:29:43,200
+Sometimes it's 10 percent, sometimes it's 15, sometimes it's 20 percent.
+
+425
+00:29:44,280 --> 00:29:45,720
+There are events that occur.
+
+426
+00:29:45,720 --> 00:29:47,040
+This is a structural event.
+
+427
+00:29:47,160 --> 00:29:48,320
+Tariffs are big.
+
+428
+00:29:48,560 --> 00:29:52,200
+So obviously, you know, the impact could be felt more than just today.
+
+429
+00:29:52,760 --> 00:29:55,920
+The market's going to continue to look to see what happens with inflation numbers.
+
+430
+00:29:56,240 --> 00:29:59,760
+You know, what are the chances that the Fed will have to take interest rates back up?
+
+431
+00:30:00,000 --> 00:30:04,680
+So that's what the market is going to be looking at, as well as companies pulling back on cap
+
+432
+00:30:04,720 --> 00:30:07,920
+spending. So there's a lot that the market has to still digest.
+
+433
+00:30:09,720 --> 00:30:16,840
+In terms of what interest rate traders are betting on, they're looking for May.
+
+434
+00:30:17,160 --> 00:30:22,080
+Most interest rate traders, about 72 percent of them think that interest rates won't move at all
+
+435
+00:30:22,440 --> 00:30:24,760
+and that the federal reserve will hold steady.
+
+436
+00:30:25,240 --> 00:30:30,080
+About 27 percent of the interest rate traders are looking for a 25 basis point cut.
+
+437
+00:30:30,400 --> 00:30:34,640
+So clearly, the majority of traders are looking for no change by the Fed,
+
+438
+00:30:35,000 --> 00:30:37,200
+and that rates will stay the same.
+
+439
+00:30:37,520 --> 00:30:40,240
+If we take this out to July, that's a little bit different.
+
+440
+00:30:40,960 --> 00:30:46,720
+We have about 52 percent of interest rate traders looking for a 50 basis point cut
+
+441
+00:30:46,720 --> 00:30:50,240
+by the time we get to that July period, which is interesting because I said
+
+442
+00:30:50,520 --> 00:30:54,320
+that medium date, it would be August 9th.
+
+443
+00:30:54,680 --> 00:30:59,960
+So very interesting that does occur, that we have a 50 basis point cut.
+
+444
+00:31:00,200 --> 00:31:04,040
+That could be a good foundation for the markets to start to lift from that point.
+
+445
+00:31:05,640 --> 00:31:09,440
+Something I really want to highlight that's incredibly important is not
+
+446
+00:31:10,400 --> 00:31:13,680
+what we have these panic periods, not to sell.
+
+447
+00:31:14,000 --> 00:31:17,560
+And there's a lot of data that shows you why you don't want to sell during these periods.
+
+448
+00:31:17,560 --> 00:31:19,840
+And people obviously have sold off today.
+
+449
+00:31:19,840 --> 00:31:22,040
+The markets come off a lot.
+
+450
+00:31:22,040 --> 00:31:26,080
+As I said to Daniel before, the horse is already out of the barn.
+
+451
+00:31:26,080 --> 00:31:28,680
+There's no need to shut the gate at this point.
+
+452
+00:31:28,920 --> 00:31:32,640
+So what I want to highlight here is from JPMorgan, wealth management.
+
+453
+00:31:33,120 --> 00:31:39,360
+They have highlighted that seven of the S&P 10s best days occurred within 15 days
+
+454
+00:31:39,480 --> 00:31:41,000
+of the 10 worst.
+
+455
+00:31:41,000 --> 00:31:46,480
+So that means, again, like your best trading days occur right after the worst days.
+
+456
+00:31:46,880 --> 00:31:50,560
+And if you invested in the S&P 500 for over 20 years,
+
+457
+00:31:50,960 --> 00:31:53,640
+you would have achieved annualized returns of 10 and a half percent.
+
+458
+00:31:54,080 --> 00:31:57,200
+However, if you missed out on just the 10 best days over that period,
+
+459
+00:31:57,600 --> 00:31:59,920
+the return would be cut to 6.2 percent.
+
+460
+00:32:00,320 --> 00:32:03,160
+That's why it's really important to stay in the market during these periods
+
+461
+00:32:03,480 --> 00:32:05,200
+and not be scared out of it.
+
+462
+00:32:05,200 --> 00:32:09,080
+And something else that I really want to point out during really big panic periods.
+
+463
+00:32:09,440 --> 00:32:13,760
+So take a look at 2022, which was not that long ago.
+
+464
+00:32:14,280 --> 00:32:17,080
+On average, OK, most people have already forgotten this.
+
+465
+00:32:17,080 --> 00:32:21,360
+On average, the Mag7 stocks declined by approximately
+
+466
+00:32:21,800 --> 00:32:26,720
+46 percent in 2022, significantly underperforming
+
+467
+00:32:26,720 --> 00:32:30,960
+the S&P 500, which fell about 19.4 percent that year.
+
+468
+00:32:31,160 --> 00:32:33,120
+So you probably recall that was the pandemic year.
+
+469
+00:32:33,520 --> 00:32:37,000
+However, just one year later in 2023,
+
+470
+00:32:37,400 --> 00:32:42,440
+on average, the Mag7 stocks surged by approximately 111 percent.
+
+471
+00:32:42,880 --> 00:32:45,040
+So 2022 down 46 percent.
+
+472
+00:32:45,360 --> 00:32:47,840
+One year later, you're up 111 percent.
+
+473
+00:32:48,320 --> 00:32:50,320
+Let's take the worst case period.
+
+474
+00:32:50,440 --> 00:32:53,880
+If we go back to the Great Depression, 1929
+
+475
+00:32:54,640 --> 00:32:59,840
+from September 1929 to July 1932, the beat that was a pretty long period.
+
+476
+00:33:00,200 --> 00:33:02,680
+The S&P declined by 89 percent.
+
+477
+00:33:02,680 --> 00:33:05,040
+That is a whopping number. OK.
+
+478
+00:33:05,040 --> 00:33:07,320
+Point is don't panic. OK.
+
+479
+00:33:07,640 --> 00:33:13,320
+If you invested in the S&P 500 from July 1st, 1932
+
+480
+00:33:13,720 --> 00:33:18,920
+and held it for just one year to July 1st, 1933, just one year later,
+
+481
+00:33:19,240 --> 00:33:22,320
+the S&P 500 was up 159 percent.
+
+482
+00:33:22,800 --> 00:33:27,120
+So there you had a decline of 89 percent from 29 to 32.
+
+483
+00:33:27,440 --> 00:33:33,000
+And then from July 32 to July 33, just a year later, the market was up 159 percent.
+
+484
+00:33:33,280 --> 00:33:37,120
+So this is the entire reason why you do not want to panic during these periods.
+
+485
+00:33:37,400 --> 00:33:41,200
+Because if you do, you sell at the absolute worst time.
+
+486
+00:33:41,760 --> 00:33:43,080
+Hey, Steve, can I have a quick trip in real quick?
+
+487
+00:33:43,080 --> 00:33:46,400
+I also just want to do a quick little plug, because we're talking about the Mag7 here.
+
+488
+00:33:46,680 --> 00:33:51,800
+The top 10 stocks for April, you actually selected a Mag7 stock for that.
+
+489
+00:33:51,800 --> 00:33:53,960
+For the first time, I feel like ever.
+
+490
+00:33:54,320 --> 00:33:58,000
+So that goes back to this market pullback is presenting opportunities.
+
+491
+00:33:58,520 --> 00:34:00,040
+But go back to the fundamentals, right?
+
+492
+00:34:00,040 --> 00:34:02,760
+Go back to the earnings, listen to management, see what's coming ahead.
+
+493
+00:34:03,040 --> 00:34:05,720
+But I just wanted to put that out there that there was one Mag7 stock
+
+494
+00:34:05,720 --> 00:34:07,040
+that you did pick recently.
+
+495
+00:34:07,040 --> 00:34:09,760
+Yeah. And that's, you know, that had to do because the
+
+496
+00:34:10,080 --> 00:34:14,040
+the valuation framework has changed during this market pullback.
+
+497
+00:34:14,360 --> 00:34:19,360
+So finally, you know, we our garb system has growth at a reasonable price.
+
+498
+00:34:19,720 --> 00:34:23,320
+Most of the Mag7 have multiples that are in the stratosphere.
+
+499
+00:34:23,680 --> 00:34:26,440
+So our system just doesn't invest in stocks like that.
+
+500
+00:34:26,440 --> 00:34:28,920
+And we have a great track record, as you saw.
+
+501
+00:34:28,920 --> 00:34:32,240
+We've beaten the Magnificent Seven stocks, you know, over time.
+
+502
+00:34:32,240 --> 00:34:34,120
+We beat in the market over time.
+
+503
+00:34:34,120 --> 00:34:37,640
+We have an incredible track record using our garb strategy.
+
+504
+00:34:37,920 --> 00:34:42,040
+But we are going to avoid stocks like the Mag7 that have multiples that are like
+
+505
+00:34:42,400 --> 00:34:45,160
+35, 40, 50, 70 times, 100 times.
+
+506
+00:34:45,440 --> 00:34:47,480
+They just won't be factored into our model.
+
+507
+00:34:48,200 --> 00:34:52,520
+But yeah, I believe, you know, Amazon had come down and that got wop today too.
+
+508
+00:34:52,800 --> 00:34:57,160
+So the valuation is probably going to be more attractive on many of these Mag7 stocks.
+
+509
+00:34:57,440 --> 00:35:00,440
+So we might actually be getting to see more of these become buys or strong buys
+
+510
+00:35:00,760 --> 00:35:01,760
+in our model.
+
+511
+00:35:03,000 --> 00:35:08,240
+So looking again at, you know, not panicking, not selling, if we look at
+
+512
+00:35:09,320 --> 00:35:11,400
+the last couple pullbacks that we had.
+
+513
+00:35:11,400 --> 00:35:15,040
+So recent history, I'm just going back to 2010 here.
+
+514
+00:35:15,440 --> 00:35:19,920
+We've had five times that the market has pulled back 15%.
+
+515
+00:35:20,360 --> 00:35:23,880
+So what I wanted to show people, especially since a lot of the stocks
+
+516
+00:35:23,880 --> 00:35:26,840
+that we've been recommending recently have been hit really hard.
+
+517
+00:35:27,040 --> 00:35:28,800
+So I'm not going to deny that. OK.
+
+518
+00:35:29,000 --> 00:35:31,160
+As I said, it doesn't matter that most of these companies
+
+519
+00:35:31,440 --> 00:35:35,360
+have been beating the results when they announced they've been hit really hard.
+
+520
+00:35:35,560 --> 00:35:37,760
+And that's because of the rotation that's occurred.
+
+521
+00:35:38,080 --> 00:35:41,520
+People are moving into cash and utilities and consumer staples
+
+522
+00:35:41,760 --> 00:35:44,360
+and they're selling stocks and they're selling stocks where they made money.
+
+523
+00:35:44,680 --> 00:35:47,600
+But the point being here, since 2010,
+
+524
+00:35:48,200 --> 00:35:52,440
+if you had invested when the market pulled back 15%, OK,
+
+525
+00:35:52,760 --> 00:35:57,400
+if you took the just the top 10 quant strong buys, OK, any given day,
+
+526
+00:35:57,600 --> 00:35:59,600
+we have 350 strong buys.
+
+527
+00:35:59,960 --> 00:36:02,760
+But if you had taken the market during that period
+
+528
+00:36:03,120 --> 00:36:07,360
+and just taken the top 10 quant strong buys and you held on to them
+
+529
+00:36:07,600 --> 00:36:12,160
+for two years on average from those five different pullbacks,
+
+530
+00:36:12,520 --> 00:36:14,840
+your return would have been 117%.
+
+531
+00:36:15,400 --> 00:36:17,440
+But what I really want to point out here, too,
+
+532
+00:36:17,800 --> 00:36:21,600
+is not only if you invested in the quant strong buys during that period,
+
+533
+00:36:21,800 --> 00:36:23,680
+would you have had a return of 117%.
+
+534
+00:36:24,160 --> 00:36:29,120
+And we actually purchased the S&P 500, OK, and waited two years.
+
+535
+00:36:29,320 --> 00:36:31,480
+Your average return was almost 50%.
+
+536
+00:36:31,880 --> 00:36:34,880
+So that's like a huge return that you get out of the S&P
+
+537
+00:36:35,160 --> 00:36:38,160
+if you take advantage when the market has a 15% pullback.
+
+538
+00:36:38,640 --> 00:36:41,720
+It's better if you go into stocks that have really strong fundamentals.
+
+539
+00:36:42,160 --> 00:36:45,560
+OK, but you're still doing well, even if you went into the S&P.
+
+540
+00:36:45,760 --> 00:36:49,600
+And I think we're almost really at that period with the S&P.
+
+541
+00:36:49,600 --> 00:36:53,520
+Now we're probably down about 12% from its 52-week high.
+
+542
+00:36:53,520 --> 00:36:56,160
+We're getting close to that 15% pullback.
+
+543
+00:36:56,320 --> 00:36:59,240
+So these are the type of times where you actually want to start
+
+544
+00:36:59,480 --> 00:37:01,840
+to look at the stocks that have good fundamentals.
+
+545
+00:37:02,240 --> 00:37:05,680
+And that's going to lead me to the barbell approach that we're going with.
+
+546
+00:37:06,080 --> 00:37:10,560
+So the tariffs are definitely a big structural problem.
+
+547
+00:37:10,800 --> 00:37:12,360
+This is not a one-off event.
+
+548
+00:37:12,360 --> 00:37:14,480
+It's not like a Silicon Valley bank.
+
+549
+00:37:15,280 --> 00:37:18,520
+And it's not even like a pandemic that you eventually know will be over
+
+550
+00:37:18,880 --> 00:37:20,440
+at a certain period.
+
+551
+00:37:20,440 --> 00:37:23,440
+People are very, very uncertain what's going to happen with the tariffs.
+
+552
+00:37:23,840 --> 00:37:25,560
+What's going to happen with the tariff wars?
+
+553
+00:37:25,920 --> 00:37:29,800
+What it means to companies in terms of their earnings, employing people.
+
+554
+00:37:30,120 --> 00:37:32,520
+So there's a lot of uncertainty.
+
+555
+00:37:32,920 --> 00:37:37,480
+And what we advise during periods like this is to use this barbell approach
+
+556
+00:37:38,200 --> 00:37:40,240
+where we're looking at companies that pay dividends.
+
+557
+00:37:40,680 --> 00:37:44,280
+But still companies that have very strong fundamentals, but still pillied
+
+558
+00:37:44,280 --> 00:37:48,280
+dividends because that dividend and that yield will provide you with some
+
+559
+00:37:48,280 --> 00:37:49,560
+downside protection.
+
+560
+00:37:50,280 --> 00:37:51,560
+You're getting paid to wait.
+
+561
+00:37:51,960 --> 00:37:56,320
+But we also don't want you to ignore the stocks that have the best potential
+
+562
+00:37:56,320 --> 00:37:57,600
+returns going forward.
+
+563
+00:37:57,920 --> 00:38:00,560
+So we're using this approach where we want you to continue to look for the
+
+564
+00:38:00,560 --> 00:38:04,760
+companies on a data-driven approach and just ignore how much the stocks have
+
+565
+00:38:04,760 --> 00:38:05,240
+come down.
+
+566
+00:38:05,680 --> 00:38:10,720
+If they have strong quorum grades for growth, for value, for profitability,
+
+567
+00:38:10,920 --> 00:38:13,920
+that's all you really want to focus on because some of these stocks are
+
+568
+00:38:13,920 --> 00:38:18,920
+probably down 20, 30, maybe 40 percent and has nothing to do with the fundamentals
+
+569
+00:38:18,920 --> 00:38:19,600
+of the stocks.
+
+570
+00:38:19,880 --> 00:38:20,320
+Okay.
+
+571
+00:38:20,480 --> 00:38:23,560
+That has everything to do with the uncertainty environment and people
+
+572
+00:38:23,560 --> 00:38:27,480
+selling stocks where they've made money to go to save havens.
+
+573
+00:38:27,840 --> 00:38:31,520
+So using this barbell approach will help you ensure that you have some
+
+574
+00:38:31,520 --> 00:38:35,880
+limited protection right now in the current market, but it will also serve
+
+575
+00:38:35,880 --> 00:38:39,640
+to help you and find the opportunities that can really pay off going forward.
+
+576
+00:38:40,240 --> 00:38:45,320
+So as such, the Trump bump hits a slump and we have eight stocks for you.
+
+577
+00:38:45,800 --> 00:38:49,000
+We have four reliable dividend stocks that can mitigate the risk in this
+
+578
+00:38:49,000 --> 00:38:53,360
+volatile market and four stocks that have strong growth that have pulled
+
+579
+00:38:53,360 --> 00:38:57,400
+back significantly and we're hoping to capture some upside potential here.
+
+580
+00:38:58,280 --> 00:39:02,080
+So quickly, we're going to go into these stocks.
+
+581
+00:39:02,320 --> 00:39:06,360
+This gives you a quick picture, though, that you could see what the
+
+582
+00:39:06,360 --> 00:39:10,560
+quant strong buy ratings are, the valuation grades, the growth grades,
+
+583
+00:39:10,720 --> 00:39:13,360
+the profitability grades, agency for the most part.
+
+584
+00:39:13,360 --> 00:39:14,320
+These look pretty good.
+
+585
+00:39:15,960 --> 00:39:20,080
+So I want to take you to our dividend paying stocks.
+
+586
+00:39:20,520 --> 00:39:22,840
+And the first one up is going to be the Bank of New York.
+
+587
+00:39:22,840 --> 00:39:27,320
+And before Francesca tells you a little bit about it, I'm actually
+
+588
+00:39:27,320 --> 00:39:30,920
+going to take you to the CK Alpha platform and we're going to go to BK.
+
+589
+00:39:31,800 --> 00:39:33,320
+So we're now in the CK Alpha platform.
+
+590
+00:39:33,320 --> 00:39:35,360
+And this is actually one of the stocks that we're recommending today.
+
+591
+00:39:35,360 --> 00:39:40,080
+That's up, which is a beverage company, but we're going to go to BK first.
+
+592
+00:39:40,720 --> 00:39:41,800
+Bank of New York, Mellon.
+
+593
+00:39:43,440 --> 00:39:46,560
+You can see it's a strong buy over the last year.
+
+594
+00:39:46,560 --> 00:39:48,720
+The stock is up 1%.
+
+595
+00:39:49,280 --> 00:39:53,240
+And you can see year to date, the stock is actually up 5.8%.
+
+596
+00:39:53,480 --> 00:39:58,600
+So it has significantly outperformed the S&P so far this year.
+
+597
+00:39:59,280 --> 00:40:03,520
+Today, it's taking it on the nose down about 5%, which is in line with the S&P.
+
+598
+00:40:03,840 --> 00:40:07,840
+But if you look at the performance, especially the one year performance
+
+599
+00:40:08,120 --> 00:40:12,120
+with the stock being up 41%, I'm going to take you right to the factor grades.
+
+600
+00:40:12,480 --> 00:40:16,440
+So these factor grades give you an instant characterization of where the stock
+
+601
+00:40:16,440 --> 00:40:18,720
+stands versus the rest of the sector.
+
+602
+00:40:19,040 --> 00:40:21,360
+So you can see Bank of New York is in the financial sector.
+
+603
+00:40:21,680 --> 00:40:24,920
+So what it's telling you is that the valuation is a little bit expensive compared
+
+604
+00:40:24,920 --> 00:40:29,640
+to the sector, but frankly, for a stock that's up 41%, if you look at the
+
+605
+00:40:29,640 --> 00:40:34,000
+valuation score now versus six months ago, it's roughly the same.
+
+606
+00:40:34,360 --> 00:40:39,080
+So you've had a stock that has gone up 41%, but it has the same valuation framework.
+
+607
+00:40:39,400 --> 00:40:42,240
+And what's really nice here is that the growth is actually a little bit stronger
+
+608
+00:40:42,240 --> 00:40:45,600
+now than it was compared to where it was six months ago.
+
+609
+00:40:45,840 --> 00:40:48,440
+But importantly against these are sector relative.
+
+610
+00:40:48,800 --> 00:40:51,000
+So you could see how it compares to the sector.
+
+611
+00:40:51,520 --> 00:40:54,560
+You're one click away from looking at growth.
+
+612
+00:40:54,560 --> 00:40:57,520
+So if you look at growth, you can see what the EBIT growth is.
+
+613
+00:40:57,520 --> 00:40:59,200
+You can see what the EPS growth is.
+
+614
+00:40:59,560 --> 00:41:01,720
+I could see what the Ford EPS growth is.
+
+615
+00:41:02,080 --> 00:41:04,680
+So it's very intuitive.
+
+616
+00:41:04,680 --> 00:41:08,840
+You could see that A minus is because the company has a 24% for growth rate
+
+617
+00:41:09,200 --> 00:41:11,640
+versus the sector at 9.67.
+
+618
+00:41:11,960 --> 00:41:17,200
+So it's trading at a 148% premium to the sector on its growth rate.
+
+619
+00:41:17,600 --> 00:41:20,240
+So there's a lot of great metrics in here.
+
+620
+00:41:20,240 --> 00:41:24,240
+If we go to profitability, you can see where it compares to the rest of the sector
+
+621
+00:41:24,600 --> 00:41:30,160
+on that income margin, on CapEx to sales or cash from operations or cash per share,
+
+622
+00:41:30,440 --> 00:41:32,040
+which is huge.
+
+623
+00:41:32,040 --> 00:41:36,960
+They have $63 cash per share, hence the A plus grade versus the rest of the
+
+624
+00:41:36,960 --> 00:41:40,040
+financial sector at $6.87.
+
+625
+00:41:40,360 --> 00:41:44,080
+So I just wanted to show you if you're on the platform or if you're not a member,
+
+626
+00:41:44,400 --> 00:41:48,600
+how quickly you can find out how these companies compare to other companies.
+
+627
+00:41:48,920 --> 00:41:54,320
+And of course, you could just click on where it is in the industry or sector,
+
+628
+00:41:54,800 --> 00:42:01,440
+and it will show you our ranking on every single bank or any comparable within its industry.
+
+629
+00:42:01,840 --> 00:42:05,160
+I'm going to take us back to the presentation and Francesca, I'm going to hand it over to you
+
+630
+00:42:05,520 --> 00:42:07,520
+so you can tell us a little bit more.
+
+631
+00:42:07,520 --> 00:42:11,720
+And just as a quick note, all eight of these stocks I'm about to dive into
+
+632
+00:42:11,800 --> 00:42:16,200
+are in the article that was published under Steve's profile this morning.
+
+633
+00:42:16,520 --> 00:42:21,600
+So he took you through the system, feel free to poke around and look at these in a bit
+
+634
+00:42:21,600 --> 00:42:25,440
+further detail through the article and seeking Alpha's quant platform.
+
+635
+00:42:25,840 --> 00:42:30,280
+So BNY is a $60.2 billion company.
+
+636
+00:42:31,520 --> 00:42:38,960
+Right now it's ranked 29 in terms of all financials, but out of the custody bank
+
+637
+00:42:39,920 --> 00:42:42,880
+industry specifically, it's number two.
+
+638
+00:42:43,240 --> 00:42:47,120
+And just a couple of highlights from the quad metrics that really stood out to us
+
+639
+00:42:47,120 --> 00:42:50,520
+when we're making these assessments as to which stocks to recommend.
+
+640
+00:42:50,960 --> 00:42:58,360
+There's a forward dividend yield of 2.2 percent, forward EPS gap growth of 24 percent,
+
+641
+00:42:58,360 --> 00:43:04,000
+which is a 142.5 difference from the sector median, underlining strong growth.
+
+642
+00:43:04,440 --> 00:43:07,880
+There's also really high dividend safety and consistency grades.
+
+643
+00:43:07,920 --> 00:43:12,360
+The quant dividend grades are a great measure of that category.
+
+644
+00:43:12,360 --> 00:43:15,680
+And it goes into a little further detail on the dividends than just the regular
+
+645
+00:43:15,680 --> 00:43:16,600
+quant factor grades.
+
+646
+00:43:16,600 --> 00:43:19,720
+So definitely recommend checking those out on the platform.
+
+647
+00:43:20,200 --> 00:43:25,200
+And another great thing is that the profitability grade has improved from an F
+
+648
+00:43:25,200 --> 00:43:27,240
+to a C plus just over the past three months.
+
+649
+00:43:27,240 --> 00:43:31,320
+So similar to how Steve showed you the improvement with the valuation grade,
+
+650
+00:43:31,320 --> 00:43:35,600
+we're seeing the same improvements in profitability while the share price
+
+651
+00:43:35,600 --> 00:43:37,600
+remains relatively the same.
+
+652
+00:43:37,640 --> 00:43:40,880
+And as you said, good deal there, 2.2 percent yield, which is significantly
+
+653
+00:43:40,880 --> 00:43:42,280
+higher than the S&P 500.
+
+654
+00:43:43,520 --> 00:43:44,360
+Our beverage company.
+
+655
+00:43:45,040 --> 00:43:45,400
+Yes.
+
+656
+00:43:45,400 --> 00:43:48,000
+Next up, we have Compañía Severasurias.
+
+657
+00:43:48,280 --> 00:43:52,240
+It is a beverage company out of Chile at 2.8 billion.
+
+658
+00:43:52,680 --> 00:43:57,600
+It's a little bit smaller, consumer staples, and specifically in the brewing industry.
+
+659
+00:43:57,600 --> 00:44:01,640
+But they do make soft drinks, bottled water.
+
+660
+00:44:01,880 --> 00:44:04,640
+They're pretty diversified across the whole beverage sphere.
+
+661
+00:44:05,640 --> 00:44:09,680
+Currently, it's ranked number four out of all consumer staples stocks by our
+
+662
+00:44:09,680 --> 00:44:13,080
+quant system, but it's number one out of its industry.
+
+663
+00:44:13,440 --> 00:44:18,280
+And because this is a foreign stock, we don't have the forward dividend yield,
+
+664
+00:44:18,280 --> 00:44:21,360
+but we do have the trailing, which is 2.97 percent.
+
+665
+00:44:21,800 --> 00:44:25,800
+And it's up 33.7 year to date.
+
+666
+00:44:26,560 --> 00:44:30,360
+Something to note about this stock in particular, this actually made another
+
+667
+00:44:30,480 --> 00:44:34,560
+top 10 list of ours when we're talking about foreign stocks that investors are
+
+668
+00:44:34,560 --> 00:44:38,880
+rotating into because of, you know, all the turmoil that's been going on in the
+
+669
+00:44:38,880 --> 00:44:40,040
+markets the past few months.
+
+670
+00:44:40,240 --> 00:44:44,880
+So if you want to hear about other international stocks, I think I saw
+
+671
+00:44:44,880 --> 00:44:49,880
+somebody ask a question in the comments already about whether we recommend
+
+672
+00:44:49,880 --> 00:44:51,120
+going into foreign stocks.
+
+673
+00:44:51,560 --> 00:44:55,760
+There is a much more comprehensive list under Steve's profile in an article
+
+674
+00:44:55,760 --> 00:44:56,840
+published last week.
+
+675
+00:44:57,240 --> 00:45:01,120
+And another highlight, 8 percent forward return on equity growth, which is a
+
+676
+00:45:01,120 --> 00:45:03,680
+12,093 percent difference.
+
+677
+00:45:03,720 --> 00:45:04,560
+Very impressive.
+
+678
+00:45:05,000 --> 00:45:09,480
+And we have a trailing PEG that's price to earnings growth ratio, a very
+
+679
+00:45:09,480 --> 00:45:14,200
+favored metric of ours, because it gives you a really good glimpse into
+
+680
+00:45:14,200 --> 00:45:17,600
+valuation on a deeper level than just maybe the PE.
+
+681
+00:45:17,960 --> 00:45:21,880
+And that comes at a 66 percent discount to the sector median.
+
+682
+00:45:21,880 --> 00:45:25,880
+So definitely a good price for the performance.
+
+683
+00:45:26,240 --> 00:45:30,720
+And something else I'll highlight on this, if you look at the card on the
+
+684
+00:45:30,720 --> 00:45:35,640
+right hand side and the quant rating history, you'll see that our quant system,
+
+685
+00:45:36,040 --> 00:45:39,120
+I'm going to say it's somewhere around the November, December timeframe,
+
+686
+00:45:39,880 --> 00:45:41,920
+it went from a hold to a strong buy.
+
+687
+00:45:42,280 --> 00:45:46,080
+And you can see it really nailed it almost at the bottom there going to that
+
+688
+00:45:46,080 --> 00:45:50,840
+buy because it has climbed significantly from that price to where it is today.
+
+689
+00:45:51,120 --> 00:45:54,800
+So a quant system really did a great job on selecting that stock.
+
+690
+00:45:55,720 --> 00:45:57,040
+Our next stop, Alexander.
+
+691
+00:45:57,080 --> 00:45:57,680
+Definitely.
+
+692
+00:45:57,920 --> 00:46:00,680
+I just saw a question pop up on how to find Steve's profile.
+
+693
+00:46:00,680 --> 00:46:04,200
+So if you just type in Steven Kress into the main search bar on the
+
+694
+00:46:04,200 --> 00:46:07,920
+Seeking Alpha website, you can click on his profile and then there's a section
+
+695
+00:46:07,920 --> 00:46:11,840
+that says analysis and you can find every single article that he's ever written
+
+696
+00:46:11,840 --> 00:46:12,560
+in order.
+
+697
+00:46:12,800 --> 00:46:16,720
+So if you're just getting started on the quant system, that is a really good
+
+698
+00:46:16,720 --> 00:46:18,040
+place to begin.
+
+699
+00:46:18,360 --> 00:46:20,480
+So here we have a REIT.
+
+700
+00:46:20,560 --> 00:46:22,120
+It's called Alexander and Baldwin.
+
+701
+00:46:22,440 --> 00:46:24,680
+It's a hundred one point two five billion.
+
+702
+00:46:25,480 --> 00:46:29,000
+It's specifically considered a diversified REIT.
+
+703
+00:46:29,040 --> 00:46:32,840
+So if you look into our recovery, we usually like to have, you know, a
+
+704
+00:46:32,840 --> 00:46:36,720
+different, a range of different types of REITs, but this one was the biggest
+
+705
+00:46:37,000 --> 00:46:41,120
+standout to us when it comes to the stocks that are performing well in the
+
+706
+00:46:41,120 --> 00:46:42,400
+so-called Trump slump.
+
+707
+00:46:43,080 --> 00:46:46,160
+So it has a forward dividend yield of five point one four.
+
+708
+00:46:46,160 --> 00:46:47,200
+That's really good.
+
+709
+00:46:47,200 --> 00:46:51,200
+Obviously, that's why REITs are a great option for diversifying in a down
+
+710
+00:46:51,200 --> 00:46:51,720
+market.
+
+711
+00:46:52,160 --> 00:46:54,320
+And this one's interesting because it's based in Honolulu.
+
+712
+00:46:54,320 --> 00:47:00,280
+So it actually covers all types of different developments across the island
+
+713
+00:47:00,320 --> 00:47:05,200
+and not only just tourism, which is the biggest industry, but other industries as
+
+714
+00:47:05,200 --> 00:47:05,360
+well.
+
+715
+00:47:05,360 --> 00:47:11,880
+So it's very diversified and it has a 77% forward FFO payout ratio, a five year
+
+716
+00:47:11,880 --> 00:47:16,440
+compound annual growth rate of five point three percent and forward AFFO growth
+
+717
+00:47:16,440 --> 00:47:22,040
+rate of seven point seven percent, which is a 182% premium to the two point
+
+718
+00:47:22,040 --> 00:47:22,760
+seven five.
+
+719
+00:47:23,160 --> 00:47:24,120
+Sex your median.
+
+720
+00:47:24,160 --> 00:47:27,840
+Now, for sake of time, I'm not going over, you know, every single metric and
+
+721
+00:47:27,840 --> 00:47:31,520
+it's different from the sector median, but highly recommend checking out the
+
+722
+00:47:31,520 --> 00:47:32,680
+quantum system for yourself.
+
+723
+00:47:32,680 --> 00:47:37,280
+It's going to give you tons and tons of data on valuation, growth, profitability,
+
+724
+00:47:37,280 --> 00:47:38,480
+momentum and revision.
+
+725
+00:47:38,480 --> 00:47:39,960
+So you can explore that for yourself.
+
+726
+00:47:41,880 --> 00:47:43,480
+Uh, next up, we have another REIT.
+
+727
+00:47:43,720 --> 00:47:48,000
+This is called care trust and it's specifically a focus on the healthcare
+
+728
+00:47:48,000 --> 00:47:48,520
+sector.
+
+729
+00:47:48,880 --> 00:47:51,640
+So it's a one point two five billion.
+
+730
+00:47:52,120 --> 00:47:55,720
+Um, there's a forward dividend yield of four point seven percent.
+
+731
+00:47:55,720 --> 00:47:57,960
+So again, very juicy dividend yield there.
+
+732
+00:47:58,240 --> 00:48:00,720
+This is more focused than the previous REIT.
+
+733
+00:48:00,720 --> 00:48:05,080
+It is just skilled nursing facilities and senior housing properties, which are
+
+734
+00:48:05,080 --> 00:48:06,720
+a really lucrative business right now.
+
+735
+00:48:07,320 --> 00:48:13,080
+Um, if you look at some of the quant metrics, we have FFO growth of 10%.
+
+736
+00:48:13,600 --> 00:48:19,520
+Which is a 271% premium to the sector median in terms of valuation.
+
+737
+00:48:19,840 --> 00:48:26,600
+There's also a forward PE of 19.71, which represents a 42% discount to the sector
+
+738
+00:48:26,600 --> 00:48:30,920
+median even given it's above average momentum and great performance that we're
+
+739
+00:48:30,920 --> 00:48:31,240
+seeing.
+
+740
+00:48:31,240 --> 00:48:32,920
+So highly recommend this one as well.
+
+741
+00:48:34,400 --> 00:48:34,720
+All right.
+
+742
+00:48:34,720 --> 00:48:37,080
+Now, Francesca onto our growth stocks.
+
+743
+00:48:37,080 --> 00:48:40,040
+So the, as we mentioned, it's a barbell approach.
+
+744
+00:48:40,160 --> 00:48:43,320
+Uh, the stocks that we just went over this for stocks offered really nice
+
+745
+00:48:43,400 --> 00:48:44,160
+dividend yields.
+
+746
+00:48:44,560 --> 00:48:50,000
+Again, that yield of words, um, afford you a little bit of cushion as the
+
+747
+00:48:50,000 --> 00:48:54,840
+market sell off, you're getting paid to wait, but our approach again is a barbell
+
+748
+00:48:54,840 --> 00:48:55,160
+approach.
+
+749
+00:48:55,160 --> 00:48:59,800
+We don't want you to miss out on stocks that have come off sharply that have
+
+750
+00:48:59,800 --> 00:49:00,760
+great fundamentals.
+
+751
+00:49:00,960 --> 00:49:02,960
+So Francesca is going to tell you about a few of those.
+
+752
+00:49:03,680 --> 00:49:04,240
+Exactly.
+
+753
+00:49:04,240 --> 00:49:06,360
+It's all about growth at a reasonable price.
+
+754
+00:49:06,400 --> 00:49:10,680
+So the first one we have on our growth list is app loving.
+
+755
+00:49:11,080 --> 00:49:16,440
+Uh, right now it's market cap is 92.6 billion, at least when this slide was
+
+756
+00:49:16,440 --> 00:49:20,240
+made this morning, of course, there's a lot of action with this particular
+
+757
+00:49:20,240 --> 00:49:20,560
+stock.
+
+758
+00:49:20,560 --> 00:49:22,880
+So that has been oscillating a lot.
+
+759
+00:49:23,280 --> 00:49:27,480
+Um, it's technically in the IT sector and the application software industry.
+
+760
+00:49:27,720 --> 00:49:32,520
+It is a platform that helps digital advertisers, um, reach their audiences
+
+761
+00:49:32,520 --> 00:49:36,400
+with AI and all types of other technologies.
+
+762
+00:49:36,840 --> 00:49:41,440
+Um, so some of the highlights, we see revenue growth of 43%.
+
+763
+00:49:41,880 --> 00:49:48,640
+EBIT growth year over year of 189% versus the 10% sector median and
+
+764
+00:49:48,680 --> 00:49:54,040
+levered Fcf growth of 61% versus the 15% sector median.
+
+765
+00:49:54,360 --> 00:49:59,280
+So there's a ton of great growth, a ton of great profitability.
+
+766
+00:49:59,560 --> 00:50:04,480
+Momentum speaks for itself and the valuation right now compared to all of
+
+767
+00:50:04,480 --> 00:50:08,520
+those A level characteristics is a great price.
+
+768
+00:50:08,520 --> 00:50:12,200
+Now this one has been a bit controversial because there have been some short
+
+769
+00:50:12,200 --> 00:50:16,200
+reports that have come out on it, but I'll let Steve jump in quickly with his take.
+
+770
+00:50:16,800 --> 00:50:17,240
+Yeah.
+
+771
+00:50:17,280 --> 00:50:20,720
+You know, um, a lot of times when you have companies that have done really,
+
+772
+00:50:20,720 --> 00:50:26,920
+really well, uh, there'll be a couple firms that are names that you've never
+
+773
+00:50:26,920 --> 00:50:27,480
+ever heard of.
+
+774
+00:50:27,480 --> 00:50:31,760
+Uh, the, in this case, it's like muddy waters or it could be like fuzzy bear.
+
+775
+00:50:32,240 --> 00:50:36,240
+And they tend to really conclude with a hedge funds.
+
+776
+00:50:36,680 --> 00:50:39,960
+Um, they issue reports that have negative information.
+
+777
+00:50:40,320 --> 00:50:42,720
+Uh, sometimes that's a lot of false information.
+
+778
+00:50:42,760 --> 00:50:45,640
+Sometimes it's a lot of information taken out of context.
+
+779
+00:50:45,880 --> 00:50:52,200
+The point that I want to highlight here is, uh, we look at the top tier firms for
+
+780
+00:50:52,200 --> 00:50:53,760
+our forward growth numbers.
+
+781
+00:50:54,160 --> 00:50:58,360
+And, uh, our bottle basically looks at historical numbers and forward numbers.
+
+782
+00:50:58,720 --> 00:51:02,680
+Uh, the forward numbers are taken from Wall Street consensus and Wall Street
+
+783
+00:51:02,680 --> 00:51:07,640
+consensus on the stock has 19 analysts in the last 90 days that have taken their
+
+784
+00:51:07,640 --> 00:51:11,440
+earnings revisions up and only one professional analyst has taken it down.
+
+785
+00:51:11,760 --> 00:51:15,920
+So we often get questions about these short reports and we tell people,
+
+786
+00:51:15,920 --> 00:51:19,400
+we tend to go with a professional analyst who really know these companies.
+
+787
+00:51:19,720 --> 00:51:26,800
+So, um, we're not putting much in terms of our weight or really nothing in
+
+788
+00:51:26,800 --> 00:51:30,880
+terms of weight towards what muddy waters was saying in their short report.
+
+789
+00:51:31,120 --> 00:51:35,280
+But again, there's so many of these companies that try to, uh, collude with
+
+790
+00:51:35,280 --> 00:51:38,240
+hedge funds and they say right in the reports that they have positions in
+
+791
+00:51:38,240 --> 00:51:39,960
+these companies where they're short.
+
+792
+00:51:40,200 --> 00:51:41,800
+So we try not to pay too much attention.
+
+793
+00:51:41,800 --> 00:51:44,440
+We think app 11 has some excellent fundamentals.
+
+794
+00:51:44,880 --> 00:51:49,160
+Um, and in fact, they were one of the companies that just recently announced
+
+795
+00:51:49,520 --> 00:51:52,400
+that they wanted to be a buyer of tick tock.
+
+796
+00:51:52,680 --> 00:51:57,040
+So, uh, on that announcement, the stock itself app, love them was up about 10%.
+
+797
+00:51:57,400 --> 00:51:58,440
+So very interesting.
+
+798
+00:51:59,800 --> 00:52:00,120
+Yeah.
+
+799
+00:52:00,240 --> 00:52:00,800
+One second.
+
+800
+00:52:00,800 --> 00:52:03,400
+Actually, we got to address this real fast because we talk about transparency
+
+801
+00:52:03,400 --> 00:52:03,800
+all the time.
+
+802
+00:52:03,800 --> 00:52:05,680
+So if you don't mind, can we go to our platform real quick?
+
+803
+00:52:06,080 --> 00:52:06,560
+Absolutely.
+
+804
+00:52:06,960 --> 00:52:11,040
+So app actually flipped to a hold today and I was hoping you could take a quick
+
+805
+00:52:11,040 --> 00:52:16,680
+second to show the change of the valuation of the factor grade and what has worked
+
+806
+00:52:16,680 --> 00:52:17,200
+like that.
+
+807
+00:52:17,240 --> 00:52:19,960
+Uh, so if you want to go into the client history, maybe just walk people through
+
+808
+00:52:19,960 --> 00:52:21,040
+what happened real fast.
+
+809
+00:52:21,400 --> 00:52:21,680
+All right.
+
+810
+00:52:21,680 --> 00:52:25,000
+So we're in our platform and I did this a little bit too quickly.
+
+811
+00:52:25,320 --> 00:52:29,160
+So, uh, we put in an app, he brings app loving up right away.
+
+812
+00:52:29,600 --> 00:52:32,960
+And, uh, the beauty of our platform is you not only have the quant metrics on the
+
+813
+00:52:32,960 --> 00:52:35,720
+right side and the ranking of where it is in the industry.
+
+814
+00:52:35,720 --> 00:52:40,240
+And as Daniel highlighted, actually moved to a hold and, uh, it had been
+
+815
+00:52:40,240 --> 00:52:45,120
+withdrawn by yesterday and, um, we could tell you right now, the reason why
+
+816
+00:52:45,120 --> 00:52:49,920
+it's gone to hold is the valuation grade actually dropped to a D minus.
+
+817
+00:52:50,240 --> 00:52:56,160
+So, uh, one of our sort of circuit breakers with our system is if evaluation
+
+818
+00:52:56,160 --> 00:53:01,240
+grade does go to a D minus, it will default to a hold, but I will highlight.
+
+819
+00:53:01,600 --> 00:53:07,400
+Um, this has a most straight A in terms of report card, uh, for growth,
+
+820
+00:53:07,400 --> 00:53:09,280
+profitability, momentum and revisions.
+
+821
+00:53:09,600 --> 00:53:13,320
+It was that valuation grade that took it down in terms of transparency, which
+
+822
+00:53:13,320 --> 00:53:17,200
+Daniel's highlighting, you can click on a ratings tab that we have.
+
+823
+00:53:17,760 --> 00:53:23,040
+And this will show you, um, for every single stock that we cover every single
+
+824
+00:53:23,040 --> 00:53:28,440
+day with the directional recommendation is, um, with the quant score is and
+
+825
+00:53:28,440 --> 00:53:29,880
+what the valuation grades are.
+
+826
+00:53:30,280 --> 00:53:33,600
+So you can see here, this was holding in the strong buy camp.
+
+827
+00:53:34,200 --> 00:53:37,880
+Uh, there's been a lot of volatility with it recently, but you can see on the
+
+828
+00:53:37,880 --> 00:53:43,080
+valuation grade, it had been D, D, D, and then it flipped to D minus.
+
+829
+00:53:43,840 --> 00:53:49,200
+Now, uh, chances are with the stock price of coming down as much as it has today,
+
+830
+00:53:49,520 --> 00:53:55,960
+9.78%, this could actually flip back from a D minus to D, which will take it back
+
+831
+00:53:55,960 --> 00:53:56,720
+to strong buy.
+
+832
+00:53:57,200 --> 00:54:00,600
+It's important to keep in mind, okay, this is a data driven process.
+
+833
+00:54:00,960 --> 00:54:03,080
+It operates on numbers.
+
+834
+00:54:03,400 --> 00:54:07,760
+So when numbers move, there's a certain threshold that will occur where stocks
+
+835
+00:54:07,760 --> 00:54:11,680
+will flip for valuation growth, profitability.
+
+836
+00:54:12,160 --> 00:54:14,320
+Um, that's kind of the beauty of the system.
+
+837
+00:54:14,440 --> 00:54:15,600
+It's not emotional.
+
+838
+00:54:15,880 --> 00:54:19,360
+It's based on the data, but if you follow the data, you have to keep in mind
+
+839
+00:54:19,600 --> 00:54:24,520
+stocks trade every single day, valuation levels change every day, growth levels
+
+840
+00:54:24,520 --> 00:54:25,400
+change every day.
+
+841
+00:54:25,680 --> 00:54:30,320
+So anything that has a ratio that changes multiple times a day.
+
+842
+00:54:30,560 --> 00:54:32,440
+So the quant system takes that into account.
+
+843
+00:54:32,720 --> 00:54:33,960
+It's a real time system.
+
+844
+00:54:34,280 --> 00:54:38,080
+So the benefit is when you're making investment decision, you're making
+
+845
+00:54:38,080 --> 00:54:42,600
+that investment decision on real time knowledge, as opposed to an article that
+
+846
+00:54:42,600 --> 00:54:46,000
+could be written, you know, by Morgan Stanley or Goldman Sachs, that could be
+
+847
+00:54:46,000 --> 00:54:47,680
+four weeks old or eight weeks old.
+
+848
+00:54:48,120 --> 00:54:51,720
+Um, nobody wants to make an investment decision based on information from a
+
+849
+00:54:51,720 --> 00:54:53,720
+research report that was written two months ago.
+
+850
+00:54:54,480 --> 00:54:56,000
+And that's the benefit of our quant system.
+
+851
+00:54:56,320 --> 00:55:00,080
+But sometimes since it follows every single trade, which comes through to
+
+852
+00:55:00,080 --> 00:55:03,280
+every ratio, you will have fluctuations like that.
+
+853
+00:55:03,640 --> 00:55:06,560
+And most importantly, I say a hold is a hold.
+
+854
+00:55:06,560 --> 00:55:07,760
+The hold does not mean sell.
+
+855
+00:55:08,000 --> 00:55:08,520
+Okay.
+
+856
+00:55:08,880 --> 00:55:10,720
+We have cells and strong cells.
+
+857
+00:55:11,000 --> 00:55:15,160
+That's when you sell stock, a hold means that it's likely to perform in line
+
+858
+00:55:15,160 --> 00:55:15,920
+with the industry.
+
+859
+00:55:16,200 --> 00:55:17,560
+So you hold on to the position.
+
+860
+00:55:18,240 --> 00:55:21,200
+Uh, I'm going to take us back to our platform and thanks for clarifying that,
+
+861
+00:55:21,200 --> 00:55:24,640
+Steve, we had to address that real quick for everybody now to hand it back to
+
+862
+00:55:24,640 --> 00:55:26,000
+Francesca about it.
+
+863
+00:55:26,640 --> 00:55:27,240
+Thanks guys.
+
+864
+00:55:27,240 --> 00:55:32,120
+Yeah, it is crazy how these markets can shift on a dime and just in the period
+
+865
+00:55:32,120 --> 00:55:35,440
+of less than 12 hours, we're going from strong buy to hold.
+
+866
+00:55:35,440 --> 00:55:38,920
+And I think that's a great lesson in terms of when you're reading our content
+
+867
+00:55:38,920 --> 00:55:43,120
+as well, sometimes we'll put off these articles and then an hour later, boom,
+
+868
+00:55:43,160 --> 00:55:44,960
+the quant rating can shift.
+
+869
+00:55:44,960 --> 00:55:47,760
+So always check things out on the system for yourself.
+
+870
+00:55:48,120 --> 00:55:51,480
+Uh, but it is great that it's measuring everything in real time.
+
+871
+00:55:51,760 --> 00:55:57,480
+So next up is a crowd favorite of the quant team, Brinker International.
+
+872
+00:55:57,520 --> 00:56:01,320
+That is the restaurant company behind Chili's, probably their most famous.
+
+873
+00:56:01,320 --> 00:56:04,800
+They also own a chain called Masciano's little Italy.
+
+874
+00:56:05,280 --> 00:56:10,800
+It has market cap of 6.6 billion consumer discretionary in the restaurant industry,
+
+875
+00:56:10,800 --> 00:56:15,360
+as I said, um, and it's currently ranked number one of all restaurants and number
+
+876
+00:56:15,360 --> 00:56:17,280
+four of all consumer discretionary.
+
+877
+00:56:17,280 --> 00:56:18,800
+So very impressive rankings there.
+
+878
+00:56:19,120 --> 00:56:24,480
+Um, it makes sense considering that the shares have rallied 182% over the
+
+879
+00:56:24,480 --> 00:56:29,160
+past year, which is impressive considering, you know, what the markets have been
+
+880
+00:56:29,160 --> 00:56:30,920
+through just in 2025.
+
+881
+00:56:31,400 --> 00:56:36,760
+Um, so they had great performance in Q4, 26% boost in annual revenues, and they
+
+882
+00:56:36,760 --> 00:56:38,760
+nearly tripled their profitability.
+
+883
+00:56:39,080 --> 00:56:40,640
+Um, that's due to a lot of things.
+
+884
+00:56:40,640 --> 00:56:42,880
+They rebranded themselves.
+
+885
+00:56:42,880 --> 00:56:45,840
+They've put out a lot of emphasis on social media.
+
+886
+00:56:46,200 --> 00:56:50,240
+Uh, if you've ever heard of the Chili's triple dipper, that's viral on TikTok.
+
+887
+00:56:50,640 --> 00:56:55,040
+They're doing incredible things when it comes to getting their name out there.
+
+888
+00:56:55,080 --> 00:56:57,920
+And also it's very affordable.
+
+889
+00:56:58,200 --> 00:57:03,280
+They actually, you know, in lowered the cost of their food in Q2, despite
+
+890
+00:57:03,280 --> 00:57:08,080
+increasing inflation, so it's really a crowd favorite with customers and
+
+891
+00:57:08,080 --> 00:57:12,880
+investors, um, and looking a little deeper into the quant metrics, um, price
+
+892
+00:57:12,880 --> 00:57:16,080
+to earnings growth, like we said, that's a favorite valuation of ours.
+
+893
+00:57:16,520 --> 00:57:21,320
+It's 0.5, which represents a 64% discount to the sector.
+
+894
+00:57:21,480 --> 00:57:23,440
+So you're getting a lot of bang for your buck here.
+
+895
+00:57:23,720 --> 00:57:32,440
+They have long-term EPS growth of 37.6%, um, which comes in at a 233% difference
+
+896
+00:57:32,440 --> 00:57:33,120
+to the sector.
+
+897
+00:57:33,320 --> 00:57:40,320
+So C minus valuation, um, as Steve has explained, those shift a lot, but in
+
+898
+00:57:40,320 --> 00:57:45,520
+the grand scheme of things, a C minus can still represent a really good discount,
+
+899
+00:57:45,520 --> 00:57:50,120
+especially when you're looking at straight A pluses across all of our other quant
+
+900
+00:57:50,120 --> 00:57:50,800
+categories.
+
+901
+00:57:51,520 --> 00:57:54,560
+Especially with a peg ratio that comes under that valuation.
+
+902
+00:57:54,920 --> 00:57:58,560
+Sometimes you'll have the conventional metrics like PE will be really expensive,
+
+903
+00:57:59,080 --> 00:58:03,840
+but I love the peg metric, which is it combines the PE with the growth rate,
+
+904
+00:58:04,160 --> 00:58:08,440
+and it gives you a much greater sense of reality when you combine growth with PE.
+
+905
+00:58:08,840 --> 00:58:13,240
+And often in companies where the overall value grade could be your D or D minus,
+
+906
+00:58:13,600 --> 00:58:17,440
+sometimes that peg ratio will be an A, A minus A plus.
+
+907
+00:58:18,280 --> 00:58:21,680
+Something to highlight here too, not only is Brinker a favorite with a
+
+908
+00:58:21,680 --> 00:58:26,680
+quant team in the last 90 days, you have had 20 analysts revise their estimates
+
+909
+00:58:26,680 --> 00:58:28,840
+up and zero have revised it down.
+
+910
+00:58:30,480 --> 00:58:31,520
+Yeah, that's pretty good.
+
+911
+00:58:31,520 --> 00:58:32,000
+Thanks, Scott.
+
+912
+00:58:32,320 --> 00:58:32,640
+Yeah.
+
+913
+00:58:32,680 --> 00:58:33,200
+Thank you.
+
+914
+00:58:33,240 --> 00:58:36,400
+So next up we have TG Therapeutics.
+
+915
+00:58:36,440 --> 00:58:39,280
+This is a biotech company in the healthcare sector.
+
+916
+00:58:39,800 --> 00:58:46,760
+And they're most known for their drugs for B cell, medicated diseases, including
+
+917
+00:58:46,760 --> 00:58:48,160
+multiple sclerosis.
+
+918
+00:58:48,480 --> 00:58:52,120
+So they're a leader in that very important field.
+
+919
+00:58:53,080 --> 00:59:01,600
+Looking at the quant metrics, forward EPS gap growth of 179% comes out of 1,169%
+
+920
+00:59:01,600 --> 00:59:02,760
+difference to the sector.
+
+921
+00:59:03,120 --> 00:59:08,720
+So really impressive growth compared to everywhere else in the healthcare sector.
+
+922
+00:59:09,720 --> 00:59:15,640
+And with five upward EPS revisions compared to one negative, seems like Wall Street
+
+923
+00:59:15,640 --> 00:59:18,960
+is relatively aligned with our strong buy assessment.
+
+924
+00:59:19,280 --> 00:59:23,160
+And if you just take a look at the factor grades, everything's in the green.
+
+925
+00:59:23,160 --> 00:59:27,880
+So definitely take a look at the quant system and poke through those numbers a
+
+926
+00:59:27,880 --> 00:59:30,760
+little bit more, but really impressive metrics across the board.
+
+927
+00:59:31,560 --> 00:59:31,800
+Yeah.
+
+928
+00:59:31,800 --> 00:59:37,320
+And you can see actually at the valuation, it has improved to be minus from where
+
+929
+00:59:37,320 --> 00:59:39,760
+it was six months ago at a D minus.
+
+930
+00:59:40,200 --> 00:59:41,560
+And the growth is still A plus.
+
+931
+00:59:41,560 --> 00:59:43,120
+So that really makes it quite attractive.
+
+932
+00:59:44,760 --> 00:59:45,240
+All right.
+
+933
+00:59:45,360 --> 00:59:46,840
+Oh, thank you.
+
+934
+00:59:47,560 --> 00:59:47,880
+All right.
+
+935
+00:59:47,880 --> 00:59:50,960
+So last but not least, we have lifetime group.
+
+936
+00:59:50,960 --> 00:59:55,440
+If you're familiar with the lifetime fitness gyms, we see them around here in New York.
+
+937
+00:59:55,960 --> 00:59:59,840
+They have a market capitalization of 6.6 billion.
+
+938
+01:00:00,080 --> 01:00:04,800
+It's technically in the leisure facilities industry as categorized in our quant system.
+
+939
+01:00:05,080 --> 01:00:09,480
+And it's ranked number one out of that industry and number six out of all
+
+940
+01:00:09,480 --> 01:00:11,440
+consumer discretionary sectors.
+
+941
+01:00:11,440 --> 01:00:15,040
+So just like Brinker International, it is a leader in that category.
+
+942
+01:00:15,640 --> 01:00:19,720
+And it's one of the categories that has been doing exceedingly well as investors
+
+943
+01:00:19,720 --> 01:00:25,160
+are rotating into more defensive, non-cyclical stocks, which could be, you
+
+944
+01:00:25,160 --> 01:00:27,560
+know, utilities, health care, consumer discretionary.
+
+945
+01:00:28,200 --> 01:00:32,680
+So it is a luxury fitness chain with 175 clubs across the U.S.
+
+946
+01:00:32,680 --> 01:00:34,800
+and 1.5 million members.
+
+947
+01:00:34,840 --> 01:00:37,480
+We've seen those numbers really improve since COVID.
+
+948
+01:00:37,480 --> 01:00:42,080
+Of course, a lot of these companies had to shutter gyms during the pandemic.
+
+949
+01:00:42,080 --> 01:00:45,440
+And it's been a long road to restoring profitability.
+
+950
+01:00:45,800 --> 01:00:49,840
+And Lifetime has been able to pull that off in part because they
+
+951
+01:00:49,840 --> 01:00:51,600
+transformed their real estate strategy.
+
+952
+01:00:51,800 --> 01:00:56,120
+So instead of buying properties themselves and shelling out to build these luxury gyms,
+
+953
+01:00:56,120 --> 01:00:59,960
+they're working with existing landlords and they figured out a way to kind of make
+
+954
+01:00:59,960 --> 01:01:02,000
+the whole thing way more cost efficient.
+
+955
+01:01:02,320 --> 01:01:08,960
+And looking at the quant metrics, we have forward EPS gap growth of 59 percent,
+
+956
+01:01:09,360 --> 01:01:14,400
+which is a 624 percent difference to the sector median, as well as forward EBITDA
+
+957
+01:01:14,400 --> 01:01:18,720
+growth of 18 percent, which is a 283 percent difference.
+
+958
+01:01:19,400 --> 01:01:21,960
+And Steve just explained why he loves Peg.
+
+959
+01:01:22,160 --> 01:01:27,080
+We all love Peg here on the quant team and it has a trailing Peg of 0.41,
+
+960
+01:01:27,360 --> 01:01:31,040
+which represents more than a 42 percent discount from the sector.
+
+961
+01:01:31,320 --> 01:01:36,440
+And if you look at the valuation, you can see it has improved a little bit
+
+962
+01:01:36,440 --> 01:01:39,880
+over the past six months from a D minus to a D plus.
+
+963
+01:01:40,920 --> 01:01:43,680
+And Francesca, I can tell you as a member of Lifetime Group,
+
+964
+01:01:43,680 --> 01:01:46,000
+I am incredibly impressed with their facilities.
+
+965
+01:01:46,360 --> 01:01:48,240
+They do a fantastic job there.
+
+966
+01:01:49,320 --> 01:01:52,760
+And I got to say, if people have to tighten their belt and times get tough,
+
+967
+01:01:53,120 --> 01:01:56,560
+I will cut out a couple of restaurants before I cut out by fitness facility.
+
+968
+01:01:56,840 --> 01:01:59,600
+So I think other people probably feel the same way.
+
+969
+01:02:01,280 --> 01:02:02,960
+All right, I think that brings us to Q&A.
+
+970
+01:02:03,000 --> 01:02:07,120
+So Daniel, I'm going to hand it over to you for the questions,
+
+971
+01:02:07,120 --> 01:02:10,120
+because I know we have had a ton of questions come through.
+
+972
+01:02:10,160 --> 01:02:11,360
+Yeah, we're running out of time here.
+
+973
+01:02:11,360 --> 01:02:13,520
+I'd love to get to some of the questions here in the chat.
+
+974
+01:02:13,520 --> 01:02:16,760
+So if you don't mind doing that, we can pause on for another time.
+
+975
+01:02:16,760 --> 01:02:21,040
+But one of the questions that came to light was recommending certain stocks
+
+976
+01:02:21,040 --> 01:02:26,480
+and sectors that typically don't do well in market environments during a pullback.
+
+977
+01:02:26,480 --> 01:02:29,080
+Right? You think about consumer discretionary, it comes top of mind.
+
+978
+01:02:29,320 --> 01:02:32,320
+But you're always kind of finding these stocks that are strong buys
+
+979
+01:02:32,360 --> 01:02:33,160
+within that sector.
+
+980
+01:02:33,160 --> 01:02:35,960
+So I think somebody's just kind of wondering, like, how is it that the
+
+981
+01:02:35,960 --> 01:02:39,880
+quantum system can still recommend these stocks and sectors that are usually
+
+982
+01:02:39,880 --> 01:02:41,040
+hit the hardest?
+
+983
+01:02:42,120 --> 01:02:47,800
+Yeah, so really what you have to do is not pay attention to the sector rotation.
+
+984
+01:02:48,240 --> 01:02:52,000
+What we want to do is pay attention to companies that have really strong fundamentals.
+
+985
+01:02:52,480 --> 01:02:56,680
+And often the companies that have strong fundamentals can be technology companies
+
+986
+01:02:56,680 --> 01:03:00,160
+that can be industrial companies or consumer discretionary companies.
+
+987
+01:03:00,400 --> 01:03:05,360
+So the fact that the stocks have been sold off has more to do with like a rotation
+
+988
+01:03:05,720 --> 01:03:09,600
+to the safe havens than some of the fundamentals with these companies.
+
+989
+01:03:09,960 --> 01:03:15,120
+So what we want to do is identify companies that have incredibly strong
+
+990
+01:03:15,120 --> 01:03:17,880
+growth rates and good valuation frameworks.
+
+991
+01:03:18,160 --> 01:03:22,560
+So a perfect example is I actually want to take you to
+
+992
+01:03:24,520 --> 01:03:26,680
+a slide that I have from Alpha Pix here.
+
+993
+01:03:27,240 --> 01:03:30,800
+So Alpha Pix is a separate service that we run.
+
+994
+01:03:32,160 --> 01:03:36,480
+Try to find stocks on your own could be difficult in good times and in certain
+
+995
+01:03:36,480 --> 01:03:37,960
+times like this could be even harder.
+
+996
+01:03:38,320 --> 01:03:42,440
+But what I want to point out with Alpha Pix, we happen to have a lot of companies
+
+997
+01:03:42,440 --> 01:03:45,600
+that are IT stocks and consumer discretionary stocks.
+
+998
+01:03:46,000 --> 01:03:50,880
+So if you look at the growth metrics for the Alpha Pix portfolio, the revenue
+
+999
+01:03:50,880 --> 01:03:58,320
+growth is 13.8 percent compared to the S&P, which has a revenue growth of 5.4 percent.
+
+1000
+01:03:58,760 --> 01:04:07,200
+The EPS growth for Alpha Pix is 36 percent for EPS growth versus the S&P at 13 percent.
+
+1001
+01:04:07,680 --> 01:04:13,360
+And yet the P multiple is only 18 times versus the S&P at 23 times.
+
+1002
+01:04:13,760 --> 01:04:18,960
+So you're getting a case here where you almost have an earnings growth rate
+
+1003
+01:04:18,960 --> 01:04:24,080
+that's three times greater than this S&P, but yet it's a cheaper valuation.
+
+1004
+01:04:24,400 --> 01:04:25,880
+So that's exactly what we want to do.
+
+1005
+01:04:25,880 --> 01:04:30,720
+We want to identify the companies that have strong growth rates and good valuation
+
+1006
+01:04:30,720 --> 01:04:36,080
+frameworks because over time, fear fades and the market will return to fundamentals.
+
+1007
+01:04:36,400 --> 01:04:40,640
+So that's why especially in periods like this, you could use this uncertainty
+
+1008
+01:04:40,960 --> 01:04:42,080
+as your best friend.
+
+1009
+01:04:42,400 --> 01:04:47,640
+And if you identify these stocks now, when the fear settles down and the market
+
+1010
+01:04:47,720 --> 01:04:51,480
+does return to fundamentals, you will definitely be rewarded by it.
+
+1011
+01:04:52,920 --> 01:04:53,880
+Right, Lee said.
+
+1012
+01:04:54,000 --> 01:04:56,760
+All right, I'm going to squeeze one more in here actually, because as I mentioned,
+
+1013
+01:04:57,160 --> 01:04:59,000
+we're going to wrap up because we're past five o'clock here.
+
+1014
+01:04:59,760 --> 01:05:04,440
+But when it comes to us coming on these webinars, I saw this question, it comes up all the time.
+
+1015
+01:05:04,800 --> 01:05:06,600
+We're always recommending stocks to pick in.
+
+1016
+01:05:06,600 --> 01:05:10,280
+We're always saying, well, OK, it's the strong buy and it's the garp system.
+
+1017
+01:05:10,560 --> 01:05:13,520
+Maybe just take a second to remind people what the garp system is, because I think
+
+1018
+01:05:13,520 --> 01:05:17,320
+people are naturally thinking about, well, if you're saying it's buy this stock now,
+
+1019
+01:05:17,320 --> 01:05:19,000
+then the market must be bottoming.
+
+1020
+01:05:19,160 --> 01:05:21,800
+Right, I think that's the natural thought people have.
+
+1021
+01:05:21,880 --> 01:05:25,640
+So when we come here and we say, you know, here's a list of eight stocks today,
+
+1022
+01:05:26,520 --> 01:05:31,640
+maybe just give them the compelling explanation of the growth at a reasonable price.
+
+1023
+01:05:32,320 --> 01:05:33,200
+Right, exactly.
+
+1024
+01:05:33,200 --> 01:05:37,160
+So we're not saying that the market has bottomed here yet.
+
+1025
+01:05:37,160 --> 01:05:42,800
+But what we're saying is the pullback has been significant enough that you probably
+
+1026
+01:05:42,800 --> 01:05:46,960
+want to start paying attention to these companies that have incredible fundamentals.
+
+1027
+01:05:47,520 --> 01:05:52,160
+So when we look at garp growth at a reasonable price, we're looking for companies
+
+1028
+01:05:52,160 --> 01:05:55,480
+that have strong growth rates at a reasonable valuation.
+
+1029
+01:05:56,600 --> 01:05:59,880
+And I think, you know, really to like highlight this, so a lot of people are
+
+1030
+01:05:59,880 --> 01:06:02,120
+moving into consumer stable stocks right now.
+
+1031
+01:06:02,520 --> 01:06:10,280
+So look at the EPS, the average EPS growth rate for Alphapix is 36 percent.
+
+1032
+01:06:10,640 --> 01:06:13,880
+OK, and I highlighted compared to the S&P, it's 13 percent.
+
+1033
+01:06:14,200 --> 01:06:16,640
+But this is a 36 percent EPS growth rate.
+
+1034
+01:06:17,040 --> 01:06:22,840
+So I'm going to take us to our platform so you can see what the growth rate is for a sector
+
+1035
+01:06:22,840 --> 01:06:24,880
+that people are going to, which is consumer staples.
+
+1036
+01:06:25,200 --> 01:06:27,680
+So here we have 36 percent for Alphapix.
+
+1037
+01:06:28,240 --> 01:06:33,560
+So I'm going to go to Pepsi, which is actually a stock that we do have in Alphapix.
+
+1038
+01:06:33,560 --> 01:06:36,560
+But what I want to highlight is I'm going to click on growth.
+
+1039
+01:06:38,520 --> 01:06:40,640
+And we're going to look at the EPS growth rate.
+
+1040
+01:06:41,080 --> 01:06:47,040
+So for the consumer stable sector, the growth rate is 8 percent.
+
+1041
+01:06:47,360 --> 01:06:54,360
+OK, so as an investor, wouldn't you want to be investing in companies that have a growth rate?
+
+1042
+01:06:54,560 --> 01:06:59,120
+That's 36 percent, as opposed to growth rate, that's only 8 percent.
+
+1043
+01:06:59,520 --> 01:07:04,320
+And in the same token, the multiple for the Alphapix portfolio is 18 times.
+
+1044
+01:07:04,760 --> 01:07:08,240
+And we go to the multiple for the consumer stable sector.
+
+1045
+01:07:09,240 --> 01:07:15,320
+OK, it's actually on a trailing basis, it's 21 times on a forward basis, it's 19 times.
+
+1046
+01:07:15,640 --> 01:07:21,400
+So the average PE for the Alphapix portfolio is 18 times.
+
+1047
+01:07:21,600 --> 01:07:24,480
+It's actually at a discount to the consumer stable sector.
+
+1048
+01:07:24,920 --> 01:07:26,800
+So this is a sector that people are flying to.
+
+1049
+01:07:26,800 --> 01:07:30,400
+And the reason why they're flying to it is consumer stable companies tend to have very
+
+1050
+01:07:30,400 --> 01:07:33,400
+stable earnings, no matter what the environment is.
+
+1051
+01:07:33,400 --> 01:07:34,840
+People are still going to need to drink.
+
+1052
+01:07:35,000 --> 01:07:36,280
+They're still going to have their beverages.
+
+1053
+01:07:36,680 --> 01:07:39,680
+They're still going to have to buy certain foods.
+
+1054
+01:07:40,160 --> 01:07:43,600
+So that's why they tend to go to that or they'll go to the utility sector
+
+1055
+01:07:43,600 --> 01:07:45,400
+because they need to keep the lights out of the house.
+
+1056
+01:07:45,400 --> 01:07:50,520
+OK, but you're looking at growth rates that are much, much lower and valuations
+
+1057
+01:07:50,520 --> 01:07:56,160
+at this point, which are actually more expensive than stocks that we consider attractive.
+
+1058
+01:07:56,480 --> 01:08:00,600
+So again, in Alphapix, we have something we have about 38 stocks in the portfolio.
+
+1059
+01:08:01,200 --> 01:08:05,160
+And of the 38 stocks, the average EPS growth is 36 percent.
+
+1060
+01:08:05,520 --> 01:08:07,360
+The average PE is 18 times.
+
+1061
+01:08:07,680 --> 01:08:13,480
+That is actually at a discount to consumer staples with a growth rate that's triple
+
+1062
+01:08:14,280 --> 01:08:16,200
+more than triple that the consumer stable sector.
+
+1063
+01:08:16,680 --> 01:08:18,360
+So, Daniel, hopefully that answers your question.
+
+1064
+01:08:18,600 --> 01:08:20,960
+Yeah, I think, you know, maybe we can take a couple more questions.
+
+1065
+01:08:20,960 --> 01:08:22,520
+It's a pretty hectic day.
+
+1066
+01:08:22,520 --> 01:08:26,120
+I know we normally like to keep these to an hour, but some people might want to
+
+1067
+01:08:26,120 --> 01:08:27,160
+hang on a little bit longer.
+
+1068
+01:08:27,160 --> 01:08:29,640
+So, you know, ask away with a couple more questions.
+
+1069
+01:08:30,000 --> 01:08:31,600
+Well, then let's go back to the platform real quick.
+
+1070
+01:08:31,600 --> 01:08:32,360
+I got one for you.
+
+1071
+01:08:32,520 --> 01:08:32,920
+Came up.
+
+1072
+01:08:32,920 --> 01:08:38,680
+So a company like Nike got demolished today off of the tariff news.
+
+1073
+01:08:38,720 --> 01:08:41,840
+And I think this is a compelling case that you can maybe walk us through not only the
+
+1074
+01:08:41,840 --> 01:08:46,640
+quant system here, but also focus on the dividend grades and kind of give us a look
+
+1075
+01:08:46,640 --> 01:08:47,520
+into what you're seeing here.
+
+1076
+01:08:48,040 --> 01:08:48,400
+Okay.
+
+1077
+01:08:48,760 --> 01:08:55,200
+Well, from a quant system, it does have a hold on the stock, but not all holds are
+
+1078
+01:08:55,200 --> 01:08:56,040
+created equal.
+
+1079
+01:08:56,280 --> 01:09:00,480
+So one of the things I can tell you that doesn't look really attractive about Nike is
+
+1080
+01:09:00,480 --> 01:09:02,680
+you do have that valuation grade at a D.
+
+1081
+01:09:03,440 --> 01:09:06,240
+But what is not great is the growth grade is an F.
+
+1082
+01:09:06,240 --> 01:09:08,680
+So let's take it's one click away.
+
+1083
+01:09:08,680 --> 01:09:10,200
+You can see these underlying metrics.
+
+1084
+01:09:10,600 --> 01:09:15,800
+The reason why Nike has an F for growth is the year over year growth rate is actually
+
+1085
+01:09:15,800 --> 01:09:17,600
+negative 7.3%.
+
+1086
+01:09:18,120 --> 01:09:20,200
+And the forward growth rate is negative 3%.
+
+1087
+01:09:20,520 --> 01:09:23,680
+So the top line growth for this company is negative.
+
+1088
+01:09:24,120 --> 01:09:29,640
+If we look at some of the bottom line EBITDA numbers, the EBITDA growth is negative
+
+1089
+01:09:29,760 --> 01:09:35,560
+15% year over year and forward it is negative 13%.
+
+1090
+01:09:35,560 --> 01:09:37,760
+So growth does not look good for this company.
+
+1091
+01:09:38,400 --> 01:09:41,440
+Um, and the forward growth rate is negative.
+
+1092
+01:09:41,560 --> 01:09:44,160
+So Nike is really not an attractive stock.
+
+1093
+01:09:44,600 --> 01:09:49,560
+So when you throw the tariffs on top of it, this was the picture of it free tariffs.
+
+1094
+01:09:49,640 --> 01:09:50,120
+Okay.
+
+1095
+01:09:50,360 --> 01:09:52,000
+Now you throw the tariffs on top of it.
+
+1096
+01:09:52,400 --> 01:09:55,080
+Growth just does not look good for a company like Nike.
+
+1097
+01:09:55,440 --> 01:09:57,720
+And this is kind of what the quant system is telling you.
+
+1098
+01:09:58,120 --> 01:10:03,040
+So we like stocks that look good on a guard basis growth at a reasonable price.
+
+1099
+01:10:03,360 --> 01:10:07,720
+Nike would not fit that because the growth is in the negative domain and
+
+1100
+01:10:07,720 --> 01:10:09,040
+the valuation is expensive.
+
+1101
+01:10:09,400 --> 01:10:11,480
+So this would not make a quant strong buy.
+
+1102
+01:10:12,640 --> 01:10:13,560
+Thanks for that.
+
+1103
+01:10:13,640 --> 01:10:18,960
+Uh, so there was a question about the slide you shared earlier about the
+
+1104
+01:10:18,960 --> 01:10:24,920
+median time of a market pullback and coming down to August 9th is the date that,
+
+1105
+01:10:24,960 --> 01:10:26,920
+um, they're saying give or take.
+
+1106
+01:10:27,200 --> 01:10:31,560
+So they're asking, why not wait until August to invest in stocks?
+
+1107
+01:10:31,560 --> 01:10:33,480
+Why start buying stocks now?
+
+1108
+01:10:34,600 --> 01:10:34,840
+Okay.
+
+1109
+01:10:34,840 --> 01:10:40,800
+So one of the examples that I showed is we went back to the beginning of 2010.
+
+1110
+01:10:41,160 --> 01:10:46,560
+There have been, um, five market pullbacks of 15% at that point.
+
+1111
+01:10:47,120 --> 01:10:53,420
+So, uh, when the market is down 15%, if you held it for two years, we showed you
+
+1112
+01:10:53,420 --> 01:10:58,740
+on average, if you took advantage of the top 10 quant stocks, it was up 117%.
+
+1113
+01:10:58,740 --> 01:11:00,260
+The S&P was up 50%.
+
+1114
+01:11:00,740 --> 01:11:05,700
+So when it's down 15%, that's actually a good point to start, you know, dipping
+
+1115
+01:11:05,700 --> 01:11:09,860
+your toes in the water and start looking for some of these stocks, particularly
+
+1116
+01:11:10,140 --> 01:11:12,300
+at the market is down 15%.
+
+1117
+01:11:12,940 --> 01:11:16,380
+The stocks that have probably the quant strong buys are down even more because
+
+1118
+01:11:16,380 --> 01:11:20,820
+a lot of them started coming off in early January and February pretty significantly.
+
+1119
+01:11:21,060 --> 01:11:23,900
+You may recall, I said the quant is like a Richter scale.
+
+1120
+01:11:24,380 --> 01:11:29,580
+When we have stocks that we've identified as strong buys that are really attractive
+
+1121
+01:11:30,100 --> 01:11:34,500
+and that have had good runups on momentum, they'll sometimes be the first things
+
+1122
+01:11:34,500 --> 01:11:35,180
+that get sold.
+
+1123
+01:11:35,220 --> 01:11:38,740
+People will take profits where they've made money as they look to put it into
+
+1124
+01:11:38,740 --> 01:11:40,940
+cash or to consumer staples or gold.
+
+1125
+01:11:41,220 --> 01:11:45,380
+So chances are a number of the stocks that we've liked probably have already sold
+
+1126
+01:11:45,380 --> 01:11:46,580
+off more than the market.
+
+1127
+01:11:46,900 --> 01:11:52,300
+So using that level for the market as a benchmark at down 15% is usually a fairly
+
+1128
+01:11:52,300 --> 01:11:54,620
+good time to start putting your toes back in the water.
+
+1129
+01:11:54,860 --> 01:11:57,140
+But certainly I'd say, you know, be patient.
+
+1130
+01:11:57,540 --> 01:12:01,420
+You know, if you have powder on the sideline, just use a little bit of it.
+
+1131
+01:12:01,820 --> 01:12:05,820
+I would especially say if you have stocks that are speculative companies where there
+
+1132
+01:12:05,820 --> 01:12:12,060
+are no earnings growth, where the earnings could be negative, you might want to move
+
+1133
+01:12:12,140 --> 01:12:17,900
+out of some of those speculative investments and put the money into stocks that have
+
+1134
+01:12:17,900 --> 01:12:20,900
+dividends or stocks that have really good fundamentals.
+
+1135
+01:12:21,180 --> 01:12:23,620
+This is definitely not a good period for speculative investments.
+
+1136
+01:12:23,620 --> 01:12:27,260
+So you probably have noticed a lot of the Russell stocks, you know, the small cap
+
+1137
+01:12:27,260 --> 01:12:30,100
+stocks have sold off considerably from its 52 E.
+
+1138
+01:12:30,100 --> 01:12:30,460
+Chi.
+
+1139
+01:12:30,860 --> 01:12:33,460
+And that's because there's so much uncertainty with inflation.
+
+1140
+01:12:33,820 --> 01:12:36,020
+With tariffs, it brings inflation.
+
+1141
+01:12:36,340 --> 01:12:39,180
+There's always that scarcity value that interest rates are going to have to move
+
+1142
+01:12:39,180 --> 01:12:40,260
+up if you have inflation.
+
+1143
+01:12:40,620 --> 01:12:42,580
+Small caps don't do well during that period.
+
+1144
+01:12:42,900 --> 01:12:46,860
+So if you have small cap stocks that have limited probability, you may want to
+
+1145
+01:12:46,860 --> 01:12:51,500
+choose to sell some of those stocks to have some cash to put into the quality stocks.
+
+1146
+01:12:52,300 --> 01:12:53,020
+All right.
+
+1147
+01:12:53,020 --> 01:12:56,580
+And one last question here, people are asking the quant system.
+
+1148
+01:12:56,580 --> 01:12:58,620
+How do they know when to sell the stock?
+
+1149
+01:12:58,620 --> 01:12:58,940
+Right.
+
+1150
+01:12:58,940 --> 01:13:00,060
+Because these are all strong buys.
+
+1151
+01:13:00,060 --> 01:13:01,100
+When do they know to sell?
+
+1152
+01:13:02,660 --> 01:13:06,660
+Well, when the quant grade goes to sell or strong sell, that's how you know.
+
+1153
+01:13:07,660 --> 01:13:11,660
+So a little bit different from what I said early on, you know, where the
+
+1154
+01:13:11,660 --> 01:13:13,860
+quant system could often be like a richer scale.
+
+1155
+01:13:14,420 --> 01:13:19,060
+It gives me that, that sign, like I start to see volatilities in our strong buy
+
+1156
+01:13:19,060 --> 01:13:22,140
+stocks that have performed extraordinarily well.
+
+1157
+01:13:22,340 --> 01:13:23,700
+They start selling off.
+
+1158
+01:13:24,060 --> 01:13:27,740
+And when they sell off in size, and that size, like just being one company, but
+
+1159
+01:13:27,740 --> 01:13:32,620
+like a big breath of the stock start to sell off, it notifies me that there's a
+
+1160
+01:13:32,620 --> 01:13:34,460
+rotation that started to occur.
+
+1161
+01:13:35,380 --> 01:13:37,580
+That doesn't mean sell those stocks.
+
+1162
+01:13:37,580 --> 01:13:40,620
+That means the fundamentals are actually getting more and more attractive as
+
+1163
+01:13:40,620 --> 01:13:41,860
+those stocks are getting cheaper.
+
+1164
+01:13:42,220 --> 01:13:46,740
+But for a stock that you buy as a quant, what you really want to know to sell it,
+
+1165
+01:13:47,660 --> 01:13:51,260
+it's when the directional recommendation changes to sell or strong sell.
+
+1166
+01:13:52,420 --> 01:13:52,860
+Perfect.
+
+1167
+01:13:52,860 --> 01:13:56,140
+And I know that's a strategy you use within the AlphaPix portfolio, right?
+
+1168
+01:13:56,140 --> 01:13:59,100
+So maybe you just want to take a second and just kind of tell people about that.
+
+1169
+01:13:59,700 --> 01:14:00,020
+Yeah.
+
+1170
+01:14:00,020 --> 01:14:01,660
+So we will sort of end on that.
+
+1171
+01:14:01,660 --> 01:14:03,460
+I mentioned the AlphaPix portfolio.
+
+1172
+01:14:04,660 --> 01:14:08,380
+So investing, it often requires a lot of time.
+
+1173
+01:14:09,100 --> 01:14:12,780
+You could be a sophisticated or an engaged investor, or you could be a beginner.
+
+1174
+01:14:13,060 --> 01:14:14,180
+Time is often limited.
+
+1175
+01:14:14,180 --> 01:14:19,620
+So what we do with AlphaPix is every month we take our top two quant recommendations
+
+1176
+01:14:19,980 --> 01:14:23,740
+and we bring it forward on the trading date closest to the first of the month
+
+1177
+01:14:23,740 --> 01:14:24,740
+and the 15th of the month.
+
+1178
+01:14:25,020 --> 01:14:28,340
+We send out an article on some of our top quant stocks.
+
+1179
+01:14:28,660 --> 01:14:32,420
+And we started this about a little more than two and a half years ago.
+
+1180
+01:14:32,740 --> 01:14:35,060
+And you could see the performance has been exceptional.
+
+1181
+01:14:35,380 --> 01:14:40,580
+AlphaPix is up 129 percent versus the S&P up 48 percent.
+
+1182
+01:14:41,180 --> 01:14:46,420
+And I could say pretty consistently since inception, whether you look at a one month
+
+1183
+01:14:46,420 --> 01:14:50,300
+time frame or one year time frame or six months, it's our perform.
+
+1184
+01:14:50,580 --> 01:14:54,780
+I will say in the last month that has changed.
+
+1185
+01:14:55,180 --> 01:15:00,500
+And since February, a lot of our AlphaPix stocks have gotten completely clobbered.
+
+1186
+01:15:00,900 --> 01:15:03,220
+But again, it doesn't have anything to do with the results.
+
+1187
+01:15:03,220 --> 01:15:07,180
+So I've grayed out of the most of the names here, but we just finished up
+
+1188
+01:15:07,180 --> 01:15:11,940
+our recent earnings period and we saw that 87 percent of the AlphaPix stocks
+
+1189
+01:15:12,260 --> 01:15:17,260
+beat earnings estimates that were out there from Wall Street analysts
+
+1190
+01:15:17,540 --> 01:15:22,980
+versus the S&P 500, where only 75 percent of the stock had beaten analyst expectations.
+
+1191
+01:15:23,260 --> 01:15:24,980
+So it's a really positive sign.
+
+1192
+01:15:24,980 --> 01:15:30,740
+And what you can see here is a list of all the companies with the EPS surprise.
+
+1193
+01:15:31,020 --> 01:15:36,700
+So almost every one of them beat analyst expectations in the most recent quarter.
+
+1194
+01:15:36,980 --> 01:15:38,780
+And pretty much the same for the top line.
+
+1195
+01:15:40,060 --> 01:15:43,460
+Really, you know, some of them, two of them were just off minimally.
+
+1196
+01:15:43,660 --> 01:15:46,020
+You know, you're talking about companies that make billions of dollars.
+
+1197
+01:15:46,380 --> 01:15:51,420
+So to be like nine million off of like 3.7 billion is really like a non-event.
+
+1198
+01:15:51,780 --> 01:15:56,060
+So for the most part, these companies really did great off of the last earnings
+
+1199
+01:15:56,060 --> 01:15:58,980
+period, beating both top and bottom line expectations.
+
+1200
+01:15:59,300 --> 01:16:03,900
+But many of these stocks have gotten crushed since February, bringing down
+
+1201
+01:16:03,900 --> 01:16:05,780
+the returns of AlphaPix.
+
+1202
+01:16:06,140 --> 01:16:09,460
+So again, uncertainty can be your best friend.
+
+1203
+01:16:09,700 --> 01:16:10,820
+You want to take advantage.
+
+1204
+01:16:10,820 --> 01:16:15,100
+You want to invest in companies that have strong growth rates, top line and bottom
+
+1205
+01:16:15,100 --> 01:16:17,700
+line, and that's what we bring forward with AlphaPix.
+
+1206
+01:16:18,060 --> 01:16:19,180
+But markets come down.
+
+1207
+01:16:19,860 --> 01:16:21,060
+There's nothing we could do about it.
+
+1208
+01:16:21,420 --> 01:16:25,180
+But what you can do is take advantage of the opportunity that it presents.
+
+1209
+01:16:25,540 --> 01:16:31,340
+And we've shown many examples in this presentation, going back to 1929 for the
+
+1210
+01:16:31,340 --> 01:16:36,900
+duration that markets come off, how much they come off, but how much they appreciate
+
+1211
+01:16:37,300 --> 01:16:40,140
+in the period following when they've had that decline.
+
+1212
+01:16:40,500 --> 01:16:45,140
+And that's really what it comes down to here today is don't let fear get the
+
+1213
+01:16:45,140 --> 01:16:48,980
+best of you, be a disciplined investor, okay.
+
+1214
+01:16:49,380 --> 01:16:54,340
+And look to make structural moves at this point where you find stocks with
+
+1215
+01:16:54,340 --> 01:16:58,380
+good fundamentals because the more the market comes off here, the greater your
+
+1216
+01:16:58,380 --> 01:16:59,340
+return is going to be.
+
+1217
+01:16:59,660 --> 01:17:00,940
+And it doesn't take that long.
+
+1218
+01:17:01,100 --> 01:17:01,500
+Okay.
+
+1219
+01:17:01,540 --> 01:17:06,260
+Even during the Great Depression, when the market had its biggest move down, 89% in
+
+1220
+01:17:06,260 --> 01:17:11,140
+a two year period, had you invested one year later, you have been up over a hundred percent.
+
+1221
+01:17:11,580 --> 01:17:13,700
+And we found the same thing during the pandemic.
+
+1222
+01:17:13,940 --> 01:17:16,260
+We found the same thing during the financial crisis.
+
+1223
+01:17:16,380 --> 01:17:19,300
+And we're going to find it into the future as well.
+
+1224
+01:17:20,580 --> 01:17:23,780
+Steve, Francesca, we can't thank you enough.
+
+1225
+01:17:23,940 --> 01:17:27,820
+Obviously, as I mentioned at the top, probably the most important webinar we
+
+1226
+01:17:27,820 --> 01:17:30,180
+have ever done with the markets that we're in.
+
+1227
+01:17:30,220 --> 01:17:31,380
+I mean, this has been incredible.
+
+1228
+01:17:31,380 --> 01:17:33,660
+Thank you so much for taking the time to put all this data together.
+
+1229
+01:17:33,700 --> 01:17:37,180
+Walk us through the history, present these stocks, walk us through the metrics,
+
+1230
+01:17:37,180 --> 01:17:38,460
+walk us through the platform.
+
+1231
+01:17:38,820 --> 01:17:42,380
+There's been a lot of positive comments coming into the chat and anybody watching
+
+1232
+01:17:42,380 --> 01:17:44,340
+the replay, I hope you learned something as well.
+
+1233
+01:17:44,580 --> 01:17:47,780
+Highly encourage you to go follow Stephen's profile here on Seeking Alpha to
+
+1234
+01:17:47,780 --> 01:17:52,620
+read all of his analysis, check out AlphaPix, and we'll see you here soon in the next video.
+
+1235
+01:17:53,140 --> 01:17:54,260
+Thank you so much, everybody.
+
+1236
+01:17:54,300 --> 01:17:55,060
+Thanks, everyone.
+
