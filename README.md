@@ -13,5 +13,6 @@
 6. Upload a video/audio to generate SRT subtitles.
 
 Notes:
-- Whisper model default: small. Change model in transcript_utils.py if needed.
+- Whisper model is configurable via environment variable `WHISPER_MODEL` (default: `tiny`).
+- On CPU, `tiny`/`base` are much faster than `small`.
 - Uploaded files saved in 'uploads/', transcripts in 'transcripts/', subtitles in 'subtitles/'.

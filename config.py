@@ -10,3 +10,4 @@ ALLOWED_EXTENSIONS = {"mp4", "mp3", "wav", "mkv", "mov", "mpv"}
 MAX_CONTENT_LENGTH = 1024 * 1024 * 1024  # 1 GB
 
 SECRET_KEY = os.environ.get("FLASK_SECRET", "dev-secret")
+WHISPER_MODEL = os.environ.get("WHISPER_MODEL", "tiny")
